@@ -1,0 +1,1859 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,Feature
+35211352,Parosmia,R43.1,ICD10CM,AnosmiaAgeusia
+35211353,Parageusia,R43.2,ICD10CM,AnosmiaAgeusia
+45573025,Unspecified disturbances of smell and taste,R43.9,ICD10CM,AnosmiaAgeusia
+35211351,Anosmia,R43.0,ICD10CM,AnosmiaAgeusia
+35211354,Other disturbances of smell and taste,R43.8,ICD10CM,AnosmiaAgeusia
+1572242,Disturbances of smell and taste,R43,ICD10CM,AnosmiaAgeusia
+35207120,Anxiety disorder due to known physiological condition,F06.4,ICD10CM,Anxiety
+45571704,Organic anxiety disorder,F06.4,ICD10,Anxiety
+45595906,Phobic anxiety disorders,F40,ICD10,Anxiety
+1568221,Phobic anxiety disorders,F40,ICD10CM,Anxiety
+45557204,Agoraphobia,F40.0,ICD10,Anxiety
+1568222,Agoraphobia,F40.0,ICD10CM,Anxiety
+45552480,"Agoraphobia, unspecified",F40.00,ICD10CM,Anxiety
+45581459,Agoraphobia with panic disorder,F40.01,ICD10CM,Anxiety
+45542847,Agoraphobia without panic disorder,F40.02,ICD10CM,Anxiety
+1568223,Social phobias,F40.1,ICD10CM,Anxiety
+45595907,Social phobias,F40.1,ICD10,Anxiety
+45557205,"Social phobia, unspecified",F40.10,ICD10CM,Anxiety
+45600742,"Social phobia, generalized",F40.11,ICD10CM,Anxiety
+1568224,Specific (isolated) phobias,F40.2,ICD10CM,Anxiety
+45586240,Specific (isolated) phobias,F40.2,ICD10,Anxiety
+1568225,Animal type phobia,F40.21,ICD10CM,Anxiety
+45562045,Arachnophobia,F40.210,ICD10CM,Anxiety
+45586241,Other animal type phobia,F40.218,ICD10CM,Anxiety
+1568226,Natural environment type phobia,F40.22,ICD10CM,Anxiety
+45533102,Fear of thunderstorms,F40.220,ICD10CM,Anxiety
+45566843,Other natural environment type phobia,F40.228,ICD10CM,Anxiety
+1568227,"Blood, injection, injury type phobia",F40.23,ICD10CM,Anxiety
+45600743,Fear of blood,F40.230,ICD10CM,Anxiety
+45562046,Fear of injections and transfusions,F40.231,ICD10CM,Anxiety
+45600744,Fear of other medical care,F40.232,ICD10CM,Anxiety
+45571762,Fear of injury,F40.233,ICD10CM,Anxiety
+1568228,Situational type phobia,F40.24,ICD10CM,Anxiety
+45576544,Claustrophobia,F40.240,ICD10CM,Anxiety
+45566844,Acrophobia,F40.241,ICD10CM,Anxiety
+45533103,Fear of bridges,F40.242,ICD10CM,Anxiety
+45538067,Fear of flying,F40.243,ICD10CM,Anxiety
+45538068,Other situational type phobia,F40.248,ICD10CM,Anxiety
+1568229,Other specified phobia,F40.29,ICD10CM,Anxiety
+45552481,Androphobia,F40.290,ICD10CM,Anxiety
+45586242,Gynephobia,F40.291,ICD10CM,Anxiety
+45533104,Other specified phobia,F40.298,ICD10CM,Anxiety
+45552482,Other phobic anxiety disorders,F40.8,ICD10,Anxiety
+35207167,Other phobic anxiety disorders,F40.8,ICD10CM,Anxiety
+45542848,"Phobic anxiety disorder, unspecified",F40.9,ICD10,Anxiety
+35207168,"Phobic anxiety disorder, unspecified",F40.9,ICD10CM,Anxiety
+1568230,Other anxiety disorders,F41,ICD10CM,Anxiety
+45571763,Other anxiety disorders,F41,ICD10,Anxiety
+35207169,Panic disorder [episodic paroxysmal anxiety],F41.0,ICD10CM,Anxiety
+45562047,Panic disorder [episodic paroxysmal anxiety],F41.0,ICD10,Anxiety
+35207170,Generalized anxiety disorder,F41.1,ICD10CM,Anxiety
+45571764,Generalized anxiety disorder,F41.1,ICD10,Anxiety
+45566845,Mixed anxiety and depressive disorder,F41.2,ICD10,Anxiety
+45605492,Other mixed anxiety disorders,F41.3,ICD10,Anxiety
+35207171,Other mixed anxiety disorders,F41.3,ICD10CM,Anxiety
+35207172,Other specified anxiety disorders,F41.8,ICD10CM,Anxiety
+45595908,Other specified anxiety disorders,F41.8,ICD10,Anxiety
+45542849,"Anxiety disorder, unspecified",F41.9,ICD10,Anxiety
+35207173,"Anxiety disorder, unspecified",F41.9,ICD10CM,Anxiety
+45591139,Acute stress reaction,F43.0,ICD10,Anxiety
+35207175,Acute stress reaction,F43.0,ICD10CM,Anxiety
+37402472,Other reactions to severe stress,F43.89,ICD10CM,Anxiety
+35207177,"Reaction to severe stress, unspecified",F43.9,ICD10CM,Anxiety
+45552484,"Reaction to severe stress, unspecified",F43.9,ICD10,Anxiety
+45576563,Separation anxiety disorder of childhood,F93.0,ICD10,Anxiety
+35207272,Separation anxiety disorder of childhood,F93.0,ICD10CM,Anxiety
+45562067,Phobic anxiety disorder of childhood,F93.1,ICD10,Anxiety
+45586264,Social anxiety disorder of childhood,F93.2,ICD10,Anxiety
+45576564,Disorders of social functioning with onset specific to childhood and adolescence,F94,ICD10,Anxiety
+1568266,Disorders of social functioning with onset specific to childhood and adolescence,F94,ICD10CM,Anxiety
+45562068,Elective mutism,F94.0,ICD10,Anxiety
+35207275,Selective mutism,F94.0,ICD10CM,Anxiety
+45542450,Person with feared complaint in whom no diagnosis is made,Z71.1,ICD10,Anxiety
+35225264,Person with feared health complaint in whom no diagnosis is made,Z71.1,ICD10CM,Anxiety
+35225276,Burn-out,Z73.0,ICD10CM,Anxiety
+45576177,Burn-out,Z73.0,ICD10,Anxiety
+45602036,Anorexia,R63.0,ICD10,AppetiteLoss
+35211405,Anorexia,R63.0,ICD10CM,AppetiteLoss
+45577806,Early satiety,R68.81,ICD10CM,AppetiteLoss
+45572078,Angina pectoris,I20,ICD10,ChestPain
+1569125,Angina pectoris,I20,ICD10CM,ChestPain
+35207680,Unstable angina,I20.0,ICD10CM,ChestPain
+45586570,Unstable angina,I20.0,ICD10,ChestPain
+45533435,Angina pectoris with documented spasm,I20.1,ICD10,ChestPain
+35207681,Angina pectoris with documented spasm,I20.1,ICD10CM,ChestPain
+37402489,Refractory angina pectoris,I20.2,ICD10CM,ChestPain
+45543166,Other forms of angina pectoris,I20.8,ICD10,ChestPain
+35207682,Other forms of angina pectoris,I20.8,ICD10CM,ChestPain
+35207683,"Angina pectoris, unspecified",I20.9,ICD10CM,ChestPain
+45562339,"Angina pectoris, unspecified",I20.9,ICD10,ChestPain
+35211284,Chest pain on breathing,R07.1,ICD10CM,ChestPain
+45577779,Chest pain on breathing,R07.1,ICD10,ChestPain
+45568108,Precordial pain,R07.2,ICD10,ChestPain
+35211285,Precordial pain,R07.2,ICD10CM,ChestPain
+45597166,Other chest pain,R07.3,ICD10,ChestPain
+45558450,"Chest pain, unspecified",R07.4,ICD10,ChestPain
+1572194,Other chest pain,R07.8,ICD10CM,ChestPain
+45587497,Pleurodynia,R07.81,ICD10CM,ChestPain
+45597167,Intercostal pain,R07.82,ICD10CM,ChestPain
+45602002,Other chest pain,R07.89,ICD10CM,ChestPain
+45534424,"Chest pain, unspecified",R07.9,ICD10CM,ChestPain
+35211275,Cough,R05,ICD10CM,Cough
+766424,Acute cough,R05.1,ICD10CM,Cough
+766427,Cough syncope,R05.4,ICD10CM,Cough
+766428,Other specified cough,R05.8,ICD10CM,Cough
+766429,"Cough, unspecified",R05.9,ICD10CM,Cough
+766425,Subacute cough,R05.2,ICD10CM,Cough
+766426,Chronic cough,R05.3,ICD10CM,Cough
+45755433,Gingivitis and periodontal diseases,K05,ICD10,DentalGumProblems
+1569528,Gingivitis and periodontal diseases,K05,ICD10CM,DentalGumProblems
+1569529,Acute gingivitis,K05.0,ICD10CM,DentalGumProblems
+45576970,Acute gingivitis,K05.0,ICD10,DentalGumProblems
+45605911,"Acute gingivitis, plaque induced",K05.00,ICD10CM,DentalGumProblems
+45591571,"Acute gingivitis, non-plaque induced",K05.01,ICD10CM,DentalGumProblems
+1569530,Chronic gingivitis,K05.1,ICD10CM,DentalGumProblems
+45605912,Chronic gingivitis,K05.1,ICD10,DentalGumProblems
+45586693,"Chronic gingivitis, plaque induced",K05.10,ICD10CM,DentalGumProblems
+45596294,"Chronic gingivitis, non-plaque induced",K05.11,ICD10CM,DentalGumProblems
+45572187,Acute periodontitis,K05.2,ICD10,DentalGumProblems
+1569531,Aggressive periodontitis,K05.2,ICD10CM,DentalGumProblems
+45576971,"Aggressive periodontitis, unspecified",K05.20,ICD10CM,DentalGumProblems
+45576972,"Aggressive periodontitis, localized",K05.21,ICD10CM,DentalGumProblems
+37200588,"Aggressive periodontitis, localized, slight",K05.211,ICD10CM,DentalGumProblems
+37200589,"Aggressive periodontitis, localized, moderate",K05.212,ICD10CM,DentalGumProblems
+37200590,"Aggressive periodontitis, localized, severe",K05.213,ICD10CM,DentalGumProblems
+37200591,"Aggressive periodontitis, localized, unspecified severity",K05.219,ICD10CM,DentalGumProblems
+45543289,"Aggressive periodontitis, generalized",K05.22,ICD10CM,DentalGumProblems
+37200592,"Aggressive periodontitis, generalized, slight",K05.221,ICD10CM,DentalGumProblems
+37200593,"Aggressive periodontitis, generalized, moderate",K05.222,ICD10CM,DentalGumProblems
+37200594,"Aggressive periodontitis, generalized, severe",K05.223,ICD10CM,DentalGumProblems
+37200595,"Aggressive periodontitis, generalized, unspecified severity",K05.229,ICD10CM,DentalGumProblems
+1569532,Chronic periodontitis,K05.3,ICD10CM,DentalGumProblems
+45586694,Chronic periodontitis,K05.3,ICD10,DentalGumProblems
+45548136,"Chronic periodontitis, unspecified",K05.30,ICD10CM,DentalGumProblems
+45586695,"Chronic periodontitis, localized",K05.31,ICD10CM,DentalGumProblems
+37200596,"Chronic periodontitis, localized, slight",K05.311,ICD10CM,DentalGumProblems
+37200597,"Chronic periodontitis, localized, moderate",K05.312,ICD10CM,DentalGumProblems
+37200598,"Chronic periodontitis, localized, severe",K05.313,ICD10CM,DentalGumProblems
+37200599,"Chronic periodontitis, localized, unspecified severity",K05.319,ICD10CM,DentalGumProblems
+45552908,"Chronic periodontitis, generalized",K05.32,ICD10CM,DentalGumProblems
+37200600,"Chronic periodontitis, generalized, slight",K05.321,ICD10CM,DentalGumProblems
+37200601,"Chronic periodontitis, generalized, moderate",K05.322,ICD10CM,DentalGumProblems
+37200602,"Chronic periodontitis, generalized, severe",K05.323,ICD10CM,DentalGumProblems
+37200603,"Chronic periodontitis, generalized, unspecified severity",K05.329,ICD10CM,DentalGumProblems
+35208143,Periodontosis,K05.4,ICD10CM,DentalGumProblems
+45562477,Periodontosis,K05.4,ICD10,DentalGumProblems
+45596295,Other periodontal diseases,K05.5,ICD10,DentalGumProblems
+35208144,Other periodontal diseases,K05.5,ICD10CM,DentalGumProblems
+45605913,"Periodontal disease, unspecified",K05.6,ICD10,DentalGumProblems
+35208145,"Periodontal disease, unspecified",K05.6,ICD10CM,DentalGumProblems
+1569533,Other disorders of gingiva and edentulous alveolar ridge,K06,ICD10CM,DentalGumProblems
+45586696,Other disorders of gingiva and edentulous alveolar ridge,K06,ICD10,DentalGumProblems
+45576973,Gingival recession,K06.0,ICD10,DentalGumProblems
+35208146,Gingival recession,K06.0,ICD10CM,DentalGumProblems
+1326610,"Gingival recession, localized",K06.01,ICD10CM,DentalGumProblems
+1326611,"Localized gingival recession, unspecified",K06.010,ICD10CM,DentalGumProblems
+1326612,"Localized gingival recession, minimal",K06.011,ICD10CM,DentalGumProblems
+1326613,"Localized gingival recession, moderate",K06.012,ICD10CM,DentalGumProblems
+1326614,"Localized gingival recession, severe",K06.013,ICD10CM,DentalGumProblems
+1326615,"Gingival recession, generalized",K06.02,ICD10CM,DentalGumProblems
+1326616,"Generalized gingival recession, unspecified",K06.020,ICD10CM,DentalGumProblems
+1326617,"Generalized gingival recession, minimal",K06.021,ICD10CM,DentalGumProblems
+1326618,"Generalized gingival recession, moderate",K06.022,ICD10CM,DentalGumProblems
+1326619,"Generalized gingival recession, severe",K06.023,ICD10CM,DentalGumProblems
+45601141,Gingival enlargement,K06.1,ICD10,DentalGumProblems
+35208147,Gingival enlargement,K06.1,ICD10CM,DentalGumProblems
+35208148,Gingival and edentulous alveolar ridge lesions associated with trauma,K06.2,ICD10CM,DentalGumProblems
+45562478,Gingival and edentulous alveolar ridge lesions associated with trauma,K06.2,ICD10,DentalGumProblems
+37200604,Horizontal alveolar bone loss,K06.3,ICD10CM,DentalGumProblems
+35208149,Other specified disorders of gingiva and edentulous alveolar ridge,K06.8,ICD10CM,DentalGumProblems
+45601142,Other specified disorders of gingiva and edentulous alveolar ridge,K06.8,ICD10,DentalGumProblems
+35208150,"Disorder of gingiva and edentulous alveolar ridge, unspecified",K06.9,ICD10CM,DentalGumProblems
+45548137,"Disorder of gingiva and edentulous alveolar ridge, unspecified",K06.9,ICD10,DentalGumProblems
+1569553,Stomatitis and related lesions,K12,ICD10CM,DentalGumProblems
+45755441,Stomatitis and related lesions,K12,ICD10,DentalGumProblems
+35208168,Recurrent oral aphthae,K12.0,ICD10CM,DentalGumProblems
+45576979,Recurrent oral aphthae,K12.0,ICD10,DentalGumProblems
+35208169,Other forms of stomatitis,K12.1,ICD10CM,DentalGumProblems
+45548143,Other forms of stomatitis,K12.1,ICD10,DentalGumProblems
+45552913,Cellulitis and abscess of mouth,K12.2,ICD10,DentalGumProblems
+35208170,Cellulitis and abscess of mouth,K12.2,ICD10CM,DentalGumProblems
+35208171,Oral mucositis (ulcerative),K12.3,ICD10CM,DentalGumProblems
+45572196,Oral mucositis (ulcerative),K12.3,ICD10,DentalGumProblems
+45548144,"Oral mucositis (ulcerative), unspecified",K12.30,ICD10CM,DentalGumProblems
+45591578,Oral mucositis (ulcerative) due to antineoplastic therapy,K12.31,ICD10CM,DentalGumProblems
+45548145,Oral mucositis (ulcerative) due to other drugs,K12.32,ICD10CM,DentalGumProblems
+45548146,Oral mucositis (ulcerative) due to radiation,K12.33,ICD10CM,DentalGumProblems
+45601151,Other oral mucositis (ulcerative),K12.39,ICD10CM,DentalGumProblems
+35208172,Mucositis (ulcerative) due to to other drugs,K12.4,ICD10CM,DentalGumProblems
+45596306,Glossodynia,K14.6,ICD10,DentalGumProblems
+35208185,Glossodynia,K14.6,ICD10CM,DentalGumProblems
+45586953,Arthralgia of temporomandibular joint,M26.62,ICD10CM,DentalGumProblems
+37200712,Arthralgia of right temporomandibular joint,M26.621,ICD10CM,DentalGumProblems
+37200713,Arthralgia of left temporomandibular joint,M26.622,ICD10CM,DentalGumProblems
+37200714,Arthralgia of bilateral temporomandibular joint,M26.623,ICD10CM,DentalGumProblems
+37200715,"Arthralgia of temporomandibular joint, unspecified side",M26.629,ICD10CM,DentalGumProblems
+45558479,"Dry mouth, unspecified",R68.2,ICD10,DentalGumProblems
+35211415,"Dry mouth, unspecified",R68.2,ICD10CM,DentalGumProblems
+45577808,Jaw pain,R68.84,ICD10CM,DentalGumProblems
+45595904,Depressive episode,F32,ICD10,Depression
+1568217,Depressive episode,F32,ICD10CM,Depression
+35207150,"Major depressive disorder, single episode, mild",F32.0,ICD10CM,Depression
+45562041,Mild depressive episode,F32.0,ICD10,Depression
+45552478,Moderate depressive episode,F32.1,ICD10,Depression
+35207151,"Major depressive disorder, single episode, moderate",F32.1,ICD10CM,Depression
+45557202,Severe depressive episode without psychotic symptoms,F32.2,ICD10,Depression
+35207152,"Major depressive disorder, single episode, severe without psychotic features",F32.2,ICD10CM,Depression
+45600739,Severe depressive episode with psychotic symptoms,F32.3,ICD10,Depression
+35207153,"Major depressive disorder, single episode, severe with psychotic features",F32.3,ICD10CM,Depression
+45576541,"Major depressive disorder, single episode, in partial remission",F32.4,ICD10CM,Depression
+45547704,"Major depressive disorder, single episode, in full remission",F32.5,ICD10CM,Depression
+35207154,Other depressive episodes,F32.8,ICD10CM,Depression
+45571759,Other depressive episodes,F32.8,ICD10,Depression
+37200319,Premenstrual dysphoric disorder,F32.81,ICD10CM,Depression
+37200320,Other specified depressive episodes,F32.89,ICD10CM,Depression
+45571760,"Depressive episode, unspecified",F32.9,ICD10,Depression
+35207155,"Major depressive disorder, single episode, unspecified",F32.9,ICD10CM,Depression
+766349,"Depression, unspecified",F32.A,ICD10CM,Depression
+1568218,"Major depressive disorder, recurrent",F33,ICD10CM,Depression
+45576542,Recurrent depressive disorder,F33,ICD10,Depression
+35207156,"Major depressive disorder, recurrent, mild",F33.0,ICD10CM,Depression
+45538065,"Recurrent depressive disorder, current episode mild",F33.0,ICD10,Depression
+45576543,"Recurrent depressive disorder, current episode moderate",F33.1,ICD10,Depression
+35207157,"Major depressive disorder, recurrent, moderate",F33.1,ICD10CM,Depression
+35207158,"Major depressive disorder, recurrent severe without psychotic features",F33.2,ICD10CM,Depression
+45547705,"Recurrent depressive disorder, current episode severe without psychotic symptoms",F33.2,ICD10,Depression
+35207159,"Major depressive disorder, recurrent, severe with psychotic symptoms",F33.3,ICD10CM,Depression
+45562042,"Recurrent depressive disorder, current episode severe with psychotic symptoms",F33.3,ICD10,Depression
+45533100,"Recurrent depressive disorder, currently in remission",F33.4,ICD10,Depression
+1568219,"Major depressive disorder, recurrent, in remission",F33.4,ICD10CM,Depression
+45547706,"Major depressive disorder, recurrent, in remission, unspecified",F33.40,ICD10CM,Depression
+45552479,"Major depressive disorder, recurrent, in partial remission",F33.41,ICD10CM,Depression
+45571761,"Major depressive disorder, recurrent, in full remission",F33.42,ICD10CM,Depression
+45600740,Other recurrent depressive disorders,F33.8,ICD10,Depression
+35207160,Other recurrent depressive disorders,F33.8,ICD10CM,Depression
+45581458,"Recurrent depressive disorder, unspecified",F33.9,ICD10,Depression
+35207161,"Major depressive disorder, recurrent, unspecified",F33.9,ICD10CM,Depression
+35207163,Dysthymic disorder,F34.1,ICD10CM,Depression
+45586238,Dysthymia,F34.1,ICD10,Depression
+45566845,Mixed anxiety and depressive disorder,F41.2,ICD10,Depression
+1595539,Postpartum depression,F53.0,ICD10CM,Depression
+45581477,Depressive conduct disorder,F92.0,ICD10,Depression
+45606813,Unhappiness,R45.2,ICD10,Depression
+35211362,Unhappiness,R45.2,ICD10CM,Depression
+45582713,Suicidal ideations,R45.851,ICD10CM,Depression
+45541247,Suicide attempt,T14.91,ICD10CM,Depression
+1326800,"Suicide attempt, initial encounter",T14.91XA,ICD10CM,Depression
+1326801,"Suicide attempt, subsequent encounter",T14.91XD,ICD10CM,Depression
+45571181,"Intentional self-harm by hanging, strangulation and suffocation",X70,ICD10,Depression
+35223832,deactivated. See T71,X70,ICD10CM,Depression
+45566260,Intentional self-harm by drowning and submersion,X71,ICD10,Depression
+1575705,Intentional self-harm by drowning and submersion,X71,ICD10CM,Depression
+45566261,Intentional self-harm by drowning and submersion while in bathtub,X71.0,ICD10CM,Depression
+45551944,"Intentional self-harm by drowning and submersion while in bathtub, initial encounter",X71.0XXA,ICD10CM,Depression
+45537469,"Intentional self-harm by drowning and submersion while in bathtub, subsequent encounter",X71.0XXD,ICD10CM,Depression
+45590546,"Intentional self-harm by drowning and submersion while in bathtub, sequela",X71.0XXS,ICD10CM,Depression
+45604953,Intentional self-harm by drowning and submersion while in swimming pool,X71.1,ICD10CM,Depression
+45537470,"Intentional self-harm by drowning and submersion while in swimming pool, initial encounter",X71.1XXA,ICD10CM,Depression
+45542262,"Intentional self-harm by drowning and submersion while in swimming pool, subsequent encounter",X71.1XXD,ICD10CM,Depression
+45580865,"Intentional self-harm by drowning and submersion while in swimming pool, sequela",X71.1XXS,ICD10CM,Depression
+45595331,Intentional self-harm by drowning and submersion after jump into swimming pool,X71.2,ICD10CM,Depression
+45561466,"Intentional self-harm by drowning and submersion after jump into swimming pool, initial encounter",X71.2XXA,ICD10CM,Depression
+45566262,"Intentional self-harm by drowning and submersion after jump into swimming pool, subsequent encounter",X71.2XXD,ICD10CM,Depression
+45542263,"Intentional self-harm by drowning and submersion after jump into swimming pool, sequela",X71.2XXS,ICD10CM,Depression
+45604954,Intentional self-harm by drowning and submersion in natural water,X71.3,ICD10CM,Depression
+45600200,"Intentional self-harm by drowning and submersion in natural water, initial encounter",X71.3XXA,ICD10CM,Depression
+45566263,"Intentional self-harm by drowning and submersion in natural water, subsequent encounter",X71.3XXD,ICD10CM,Depression
+45571182,"Intentional self-harm by drowning and submersion in natural water, sequela",X71.3XXS,ICD10CM,Depression
+45580866,Other intentional self-harm by drowning and submersion,X71.8,ICD10CM,Depression
+45609786,"Other intentional self-harm by drowning and submersion, initial encounter",X71.8XXA,ICD10CM,Depression
+45600201,"Other intentional self-harm by drowning and submersion, subsequent encounter",X71.8XXD,ICD10CM,Depression
+45595332,"Other intentional self-harm by drowning and submersion, sequela",X71.8XXS,ICD10CM,Depression
+45551945,"Intentional self-harm by drowning and submersion, unspecified",X71.9,ICD10CM,Depression
+45561467,"Intentional self-harm by drowning and submersion, unspecified, initial encounter",X71.9XXA,ICD10CM,Depression
+45575994,"Intentional self-harm by drowning and submersion, unspecified, subsequent encounter",X71.9XXD,ICD10CM,Depression
+45585662,"Intentional self-harm by drowning and submersion, unspecified, sequela",X71.9XXS,ICD10CM,Depression
+45756447,Intentional self-harm by handgun discharge,X72,ICD10,Depression
+21300,Intentional self-harm by handgun discharge,X72,ICD10CM,Depression
+45585663,"Intentional self-harm by handgun discharge, initial encounter",X72.XXXA,ICD10CM,Depression
+45566264,"Intentional self-harm by handgun discharge, subsequent encounter",X72.XXXD,ICD10CM,Depression
+45609787,"Intentional self-harm by handgun discharge, sequela",X72.XXXS,ICD10CM,Depression
+1575706,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,ICD10CM,Depression
+45756448,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,ICD10,Depression
+45556675,Intentional self-harm by shotgun discharge,X73.0,ICD10CM,Depression
+45547148,"Intentional self-harm by shotgun discharge, initial encounter",X73.0XXA,ICD10CM,Depression
+45580867,"Intentional self-harm by shotgun discharge, subsequent encounter",X73.0XXD,ICD10CM,Depression
+45580868,"Intentional self-harm by shotgun discharge, sequela",X73.0XXS,ICD10CM,Depression
+21301,Intentional self-harm by hunting rifle discharge,X73.1,ICD10CM,Depression
+45566265,"Intentional self-harm by hunting rifle discharge, initial encounter",X73.1XXA,ICD10CM,Depression
+45604955,"Intentional self-harm by hunting rifle discharge, subsequent encounter",X73.1XXD,ICD10CM,Depression
+45566266,"Intentional self-harm by hunting rifle discharge, sequela",X73.1XXS,ICD10CM,Depression
+45547149,Intentional self-harm by machine gun discharge,X73.2,ICD10CM,Depression
+45585664,"Intentional self-harm by machine gun discharge, initial encounter",X73.2XXA,ICD10CM,Depression
+45547150,"Intentional self-harm by machine gun discharge, subsequent encounter",X73.2XXD,ICD10CM,Depression
+45551946,"Intentional self-harm by machine gun discharge, sequela",X73.2XXS,ICD10CM,Depression
+45537471,Intentional self-harm by other larger firearm discharge,X73.8,ICD10CM,Depression
+45575995,"Intentional self-harm by other larger firearm discharge, initial encounter",X73.8XXA,ICD10CM,Depression
+45551947,"Intentional self-harm by other larger firearm discharge, subsequent encounter",X73.8XXD,ICD10CM,Depression
+45537472,"Intentional self-harm by other larger firearm discharge, sequela",X73.8XXS,ICD10CM,Depression
+45551948,Intentional self-harm by unspecified larger firearm discharge,X73.9,ICD10CM,Depression
+45571183,"Intentional self-harm by unspecified larger firearm discharge, initial encounter",X73.9XXA,ICD10CM,Depression
+45556676,"Intentional self-harm by unspecified larger firearm discharge, subsequent encounter",X73.9XXD,ICD10CM,Depression
+45566267,"Intentional self-harm by unspecified larger firearm discharge, sequela",X73.9XXS,ICD10CM,Depression
+1575707,Intentional self-harm by other and unspecified firearm and gun discharge,X74,ICD10CM,Depression
+45551949,Intentional self-harm by other and unspecified firearm discharge,X74,ICD10,Depression
+45551950,"Intentional self-harm by gas, air or spring-operated guns",X74.0,ICD10CM,Depression
+21302,Intentional self-harm by airgun,X74.01,ICD10CM,Depression
+45595333,"Intentional self-harm by airgun, initial encounter",X74.01XA,ICD10CM,Depression
+45547151,"Intentional self-harm by airgun, subsequent encounter",X74.01XD,ICD10CM,Depression
+45566268,"Intentional self-harm by airgun, sequela",X74.01XS,ICD10CM,Depression
+21303,Intentional self-harm by paintball gun,X74.02,ICD10CM,Depression
+45595334,"Intentional self-harm by paintball gun, initial encounter",X74.02XA,ICD10CM,Depression
+45580869,"Intentional self-harm by paintball gun, subsequent encounter",X74.02XD,ICD10CM,Depression
+45566269,"Intentional self-harm by paintball gun, sequela",X74.02XS,ICD10CM,Depression
+21304,"Intentional self-harm by other gas, air or spring-operated gun",X74.09,ICD10CM,Depression
+45585665,"Intentional self-harm by other gas, air or spring-operated gun, initial encounter",X74.09XA,ICD10CM,Depression
+45551951,"Intentional self-harm by other gas, air or spring-operated gun, subsequent encounter",X74.09XD,ICD10CM,Depression
+45600202,"Intentional self-harm by other gas, air or spring-operated gun, sequela",X74.09XS,ICD10CM,Depression
+45537473,Intentional self-harm by other firearm discharge,X74.8,ICD10CM,Depression
+45575996,"Intentional self-harm by other firearm discharge, initial encounter",X74.8XXA,ICD10CM,Depression
+45547152,"Intentional self-harm by other firearm discharge, subsequent encounter",X74.8XXD,ICD10CM,Depression
+45604956,"Intentional self-harm by other firearm discharge, sequela",X74.8XXS,ICD10CM,Depression
+45585666,Intentional self-harm by unspecified firearm discharge,X74.9,ICD10CM,Depression
+45600203,"Intentional self-harm by unspecified firearm discharge, initial encounter",X74.9XXA,ICD10CM,Depression
+45590547,"Intentional self-harm by unspecified firearm discharge, subsequent encounter",X74.9XXD,ICD10CM,Depression
+45551952,"Intentional self-harm by unspecified firearm discharge, sequela",X74.9XXS,ICD10CM,Depression
+45561468,Intentional self-harm by explosive material,X75,ICD10,Depression
+21305,Intentional self-harm by explosive material,X75,ICD10CM,Depression
+45590548,"Intentional self-harm by explosive material, initial encounter",X75.XXXA,ICD10CM,Depression
+45561469,"Intentional self-harm by explosive material, subsequent encounter",X75.XXXD,ICD10CM,Depression
+45571184,"Intentional self-harm by explosive material, sequela",X75.XXXS,ICD10CM,Depression
+21306,"Intentional self-harm by smoke, fire and flames",X76,ICD10CM,Depression
+45551953,"Intentional self-harm by smoke, fire and flames",X76,ICD10,Depression
+45595335,"Intentional self-harm by smoke, fire and flames, initial encounter",X76.XXXA,ICD10CM,Depression
+45609788,"Intentional self-harm by smoke, fire and flames, subsequent encounter",X76.XXXD,ICD10CM,Depression
+45556677,"Intentional self-harm by smoke, fire and flames, sequela",X76.XXXS,ICD10CM,Depression
+45756449,"Intentional self-harm by steam, hot vapours and hot objects",X77,ICD10,Depression
+1575708,"Intentional self-harm by steam, hot vapors and hot objects",X77,ICD10CM,Depression
+45580870,Intentional self-harm by steam or hot vapors,X77.0,ICD10CM,Depression
+45571185,"Intentional self-harm by steam or hot vapors, initial encounter",X77.0XXA,ICD10CM,Depression
+45609789,"Intentional self-harm by steam or hot vapors, subsequent encounter",X77.0XXD,ICD10CM,Depression
+45556678,"Intentional self-harm by steam or hot vapors, sequela",X77.0XXS,ICD10CM,Depression
+45595336,Intentional self-harm by hot tap water,X77.1,ICD10CM,Depression
+45561470,"Intentional self-harm by hot tap water, initial encounter",X77.1XXA,ICD10CM,Depression
+45575997,"Intentional self-harm by hot tap water, subsequent encounter",X77.1XXD,ICD10CM,Depression
+45595337,"Intentional self-harm by hot tap water, sequela",X77.1XXS,ICD10CM,Depression
+45600204,Intentional self-harm by other hot fluids,X77.2,ICD10CM,Depression
+45542264,"Intentional self-harm by other hot fluids, initial encounter",X77.2XXA,ICD10CM,Depression
+45551954,"Intentional self-harm by other hot fluids, subsequent encounter",X77.2XXD,ICD10CM,Depression
+45551955,"Intentional self-harm by other hot fluids, sequela",X77.2XXS,ICD10CM,Depression
+45561471,Intentional self-harm by hot household appliances,X77.3,ICD10CM,Depression
+45575998,"Intentional self-harm by hot household appliances, initial encounter",X77.3XXA,ICD10CM,Depression
+45585667,"Intentional self-harm by hot household appliances, subsequent encounter",X77.3XXD,ICD10CM,Depression
+45604957,"Intentional self-harm by hot household appliances, sequela",X77.3XXS,ICD10CM,Depression
+21307,Intentional self-harm by other hot objects,X77.8,ICD10CM,Depression
+45600205,"Intentional self-harm by other hot objects, initial encounter",X77.8XXA,ICD10CM,Depression
+45600206,"Intentional self-harm by other hot objects, subsequent encounter",X77.8XXD,ICD10CM,Depression
+45595338,"Intentional self-harm by other hot objects, sequela",X77.8XXS,ICD10CM,Depression
+45537474,Intentional self-harm by unspecified hot objects,X77.9,ICD10CM,Depression
+45571186,"Intentional self-harm by unspecified hot objects, initial encounter",X77.9XXA,ICD10CM,Depression
+45585668,"Intentional self-harm by unspecified hot objects, subsequent encounter",X77.9XXD,ICD10CM,Depression
+45537475,"Intentional self-harm by unspecified hot objects, sequela",X77.9XXS,ICD10CM,Depression
+45756450,Intentional self-harm by sharp object,X78,ICD10,Depression
+1575709,Intentional self-harm by sharp object,X78,ICD10CM,Depression
+45556679,Intentional self-harm by sharp glass,X78.0,ICD10CM,Depression
+45595339,"Intentional self-harm by sharp glass, initial encounter",X78.0XXA,ICD10CM,Depression
+45561472,"Intentional self-harm by sharp glass, subsequent encounter",X78.0XXD,ICD10CM,Depression
+45590549,"Intentional self-harm by sharp glass, sequela",X78.0XXS,ICD10CM,Depression
+45585669,Intentional self-harm by knife,X78.1,ICD10CM,Depression
+45547153,"Intentional self-harm by knife, initial encounter",X78.1XXA,ICD10CM,Depression
+45537476,"Intentional self-harm by knife, subsequent encounter",X78.1XXD,ICD10CM,Depression
+45600207,"Intentional self-harm by knife, sequela",X78.1XXS,ICD10CM,Depression
+45561473,Intentional self-harm by sword or dagger,X78.2,ICD10CM,Depression
+45585670,"Intentional self-harm by sword or dagger, initial encounter",X78.2XXA,ICD10CM,Depression
+45571187,"Intentional self-harm by sword or dagger, subsequent encounter",X78.2XXD,ICD10CM,Depression
+45571188,"Intentional self-harm by sword or dagger, sequela",X78.2XXS,ICD10CM,Depression
+45537477,Intentional self-harm by other sharp object,X78.8,ICD10CM,Depression
+45537478,"Intentional self-harm by other sharp object, initial encounter",X78.8XXA,ICD10CM,Depression
+45551956,"Intentional self-harm by other sharp object, subsequent encounter",X78.8XXD,ICD10CM,Depression
+45566270,"Intentional self-harm by other sharp object, sequela",X78.8XXS,ICD10CM,Depression
+45590550,Intentional self-harm by unspecified sharp object,X78.9,ICD10CM,Depression
+45585671,"Intentional self-harm by unspecified sharp object, initial encounter",X78.9XXA,ICD10CM,Depression
+45571189,"Intentional self-harm by unspecified sharp object, subsequent encounter",X78.9XXD,ICD10CM,Depression
+45595340,"Intentional self-harm by unspecified sharp object, sequela",X78.9XXS,ICD10CM,Depression
+45756451,Intentional self-harm by blunt object,X79,ICD10,Depression
+21308,Intentional self-harm by blunt object,X79,ICD10CM,Depression
+45575999,"Intentional self-harm by blunt object, initial encounter",X79.XXXA,ICD10CM,Depression
+45604958,"Intentional self-harm by blunt object, subsequent encounter",X79.XXXD,ICD10CM,Depression
+45580871,"Intentional self-harm by blunt object, sequela",X79.XXXS,ICD10CM,Depression
+21309,Intentional self-harm by jumping from a high place,X80,ICD10CM,Depression
+45590551,Intentional self-harm by jumping from a high place,X80,ICD10,Depression
+45551957,"Intentional self-harm by jumping from a high place, initial encounter",X80.XXXA,ICD10CM,Depression
+45576000,"Intentional self-harm by jumping from a high place, subsequent encounter",X80.XXXD,ICD10CM,Depression
+45590552,"Intentional self-harm by jumping from a high place, sequela",X80.XXXS,ICD10CM,Depression
+45547154,Intentional self-harm by jumping or lying before moving object,X81,ICD10,Depression
+1575710,Intentional self-harm by jumping or lying in front of moving object,X81,ICD10CM,Depression
+21310,Intentional self-harm by jumping or lying in front of motor vehicle,X81.0,ICD10CM,Depression
+45576001,"Intentional self-harm by jumping or lying in front of motor vehicle, initial encounter",X81.0XXA,ICD10CM,Depression
+45537479,"Intentional self-harm by jumping or lying in front of motor vehicle, subsequent encounter",X81.0XXD,ICD10CM,Depression
+45571190,"Intentional self-harm by jumping or lying in front of motor vehicle, sequela",X81.0XXS,ICD10CM,Depression
+21311,Intentional self-harm by jumping or lying in front of (subway) train,X81.1,ICD10CM,Depression
+45576002,"Intentional self-harm by jumping or lying in front of (subway) train, initial encounter",X81.1XXA,ICD10CM,Depression
+45571191,"Intentional self-harm by jumping or lying in front of (subway) train, subsequent encounter",X81.1XXD,ICD10CM,Depression
+45590553,"Intentional self-harm by jumping or lying in front of (subway) train, sequela",X81.1XXS,ICD10CM,Depression
+45556680,Intentional self-harm by jumping or lying in front of other moving object,X81.8,ICD10CM,Depression
+45537480,"Intentional self-harm by jumping or lying in front of other moving object, initial encounter",X81.8XXA,ICD10CM,Depression
+45576003,"Intentional self-harm by jumping or lying in front of other moving object, subsequent encounter",X81.8XXD,ICD10CM,Depression
+45580872,"Intentional self-harm by jumping or lying in front of other moving object, sequela",X81.8XXS,ICD10CM,Depression
+45756452,Intentional self-harm by crashing of motor vehicle,X82,ICD10,Depression
+1575711,Intentional self-harm by crashing of motor vehicle,X82,ICD10CM,Depression
+45609790,Intentional collision of motor vehicle with other motor vehicle,X82.0,ICD10CM,Depression
+45561474,"Intentional collision of motor vehicle with other motor vehicle, initial encounter",X82.0XXA,ICD10CM,Depression
+45576004,"Intentional collision of motor vehicle with other motor vehicle, subsequent encounter",X82.0XXD,ICD10CM,Depression
+45566271,"Intentional collision of motor vehicle with other motor vehicle, sequela",X82.0XXS,ICD10CM,Depression
+21312,Intentional collision of motor vehicle with train,X82.1,ICD10CM,Depression
+45547155,"Intentional collision of motor vehicle with train, initial encounter",X82.1XXA,ICD10CM,Depression
+45551958,"Intentional collision of motor vehicle with train, subsequent encounter",X82.1XXD,ICD10CM,Depression
+45580873,"Intentional collision of motor vehicle with train, sequela",X82.1XXS,ICD10CM,Depression
+21313,Intentional collision of motor vehicle with tree,X82.2,ICD10CM,Depression
+45571192,"Intentional collision of motor vehicle with tree, initial encounter",X82.2XXA,ICD10CM,Depression
+45590554,"Intentional collision of motor vehicle with tree, subsequent encounter",X82.2XXD,ICD10CM,Depression
+45604959,"Intentional collision of motor vehicle with tree, sequela",X82.2XXS,ICD10CM,Depression
+45595341,Other intentional self-harm by crashing of motor vehicle,X82.8,ICD10CM,Depression
+45566272,"Other intentional self-harm by crashing of motor vehicle, initial encounter",X82.8XXA,ICD10CM,Depression
+45609791,"Other intentional self-harm by crashing of motor vehicle, subsequent encounter",X82.8XXD,ICD10CM,Depression
+45571193,"Other intentional self-harm by crashing of motor vehicle, sequela",X82.8XXS,ICD10CM,Depression
+1575712,Intentional self-harm by other specified means,X83,ICD10CM,Depression
+45590555,Intentional self-harm by other specified means,X83,ICD10,Depression
+45566273,Intentional self-harm by crashing of aircraft,X83.0,ICD10CM,Depression
+45561475,"Intentional self-harm by crashing of aircraft, initial encounter",X83.0XXA,ICD10CM,Depression
+45537481,"Intentional self-harm by crashing of aircraft, subsequent encounter",X83.0XXD,ICD10CM,Depression
+45551959,"Intentional self-harm by crashing of aircraft, sequela",X83.0XXS,ICD10CM,Depression
+45604960,Intentional self-harm by electrocution,X83.1,ICD10CM,Depression
+45566274,"Intentional self-harm by electrocution, initial encounter",X83.1XXA,ICD10CM,Depression
+45547156,"Intentional self-harm by electrocution, subsequent encounter",X83.1XXD,ICD10CM,Depression
+45576005,"Intentional self-harm by electrocution, sequela",X83.1XXS,ICD10CM,Depression
+45551960,Intentional self-harm by exposure to extremes of cold,X83.2,ICD10CM,Depression
+45604961,"Intentional self-harm by exposure to extremes of cold, initial encounter",X83.2XXA,ICD10CM,Depression
+45566275,"Intentional self-harm by exposure to extremes of cold, subsequent encounter",X83.2XXD,ICD10CM,Depression
+45566276,"Intentional self-harm by exposure to extremes of cold, sequela",X83.2XXS,ICD10CM,Depression
+45595342,Intentional self-harm by other specified means,X83.8,ICD10CM,Depression
+45542265,"Intentional self-harm by other specified means, initial encounter",X83.8XXA,ICD10CM,Depression
+45609792,"Intentional self-harm by other specified means, subsequent encounter",X83.8XXD,ICD10CM,Depression
+45585672,"Intentional self-harm by other specified means, sequela",X83.8XXS,ICD10CM,Depression
+45585673,Intentional self-harm by unspecified means,X84,ICD10,Depression
+45591143,Vomiting associated with other psychological disturbances,F50.5,ICD10,DigestiveIssues
+45581492,Cyclical vomiting,G43.A,ICD10CM,DigestiveIssues
+45538112,"Cyclical vomiting, in migraine, not intractable",G43.A0,ICD10CM,DigestiveIssues
+45591179,"Cyclical vomiting, not intractable, with status migrainosus",G43.A01,ICD10CM,DigestiveIssues
+45533139,"Cyclical vomiting, not intractable, without status migrainosus",G43.A09,ICD10CM,DigestiveIssues
+45605547,"Cyclical vomiting, in migraine, intractable",G43.A1,ICD10CM,DigestiveIssues
+45562089,"Cyclical vomiting, intractable, with status migrainosus",G43.A11,ICD10CM,DigestiveIssues
+45581493,"Cyclical vomiting, intractable, without status migrainosus",G43.A19,ICD10CM,DigestiveIssues
+35208286,Irritable bowel syndrome with diarrhea,K58.0,ICD10CM,DigestiveIssues
+45596336,Irritable bowel syndrome with diarrhoea,K58.0,ICD10,DigestiveIssues
+37200646,Irritable bowel syndrome with constipation,K58.1,ICD10CM,DigestiveIssues
+710660,Irritable bowel syndrome with predominant diarrhoea [IBS-D],K58.1,ICD10,DigestiveIssues
+710661,Irritable bowel syndrome with predominant constipation [IBS-C],K58.2,ICD10,DigestiveIssues
+45557663,Constipation,K59.0,ICD10,DigestiveIssues
+1569650,Constipation,K59.0,ICD10CM,DigestiveIssues
+45601182,"Constipation, unspecified",K59.00,ICD10CM,DigestiveIssues
+45557664,Slow transit constipation,K59.01,ICD10CM,DigestiveIssues
+45572219,Outlet dysfunction constipation,K59.02,ICD10CM,DigestiveIssues
+37200649,Drug induced constipation,K59.03,ICD10CM,DigestiveIssues
+37200650,Chronic idiopathic constipation,K59.04,ICD10CM,DigestiveIssues
+45552941,Other constipation,K59.09,ICD10CM,DigestiveIssues
+35208412,Hematemesis,K92.0,ICD10CM,DigestiveIssues
+45605964,Haematemesis,K92.0,ICD10,DigestiveIssues
+1572203,Nausea and vomiting,R11,ICD10CM,DigestiveIssues
+45539317,Nausea and vomiting,R11,ICD10,DigestiveIssues
+45534429,Nausea,R11.0,ICD10CM,DigestiveIssues
+45534430,Vomiting,R11.1,ICD10CM,DigestiveIssues
+45602008,"Vomiting, unspecified",R11.10,ICD10CM,DigestiveIssues
+45573011,Vomiting without nausea,R11.11,ICD10CM,DigestiveIssues
+45558456,Projectile vomiting,R11.12,ICD10CM,DigestiveIssues
+45573012,Vomiting of fecal matter,R11.13,ICD10CM,DigestiveIssues
+45568115,Bilious vomiting,R11.14,ICD10CM,DigestiveIssues
+1553844,Cyclical vomiting syndrome unrelated to migraine,R11.15,ICD10CM,DigestiveIssues
+45606796,"Nausea with vomiting, unspecified",R11.2,ICD10CM,DigestiveIssues
+45534435,"Diarrhea, unspecified",R19.7,ICD10CM,DigestiveIssues
+35205695,Epidemic vertigo,A88.1,ICD10CM,Dizziness
+45576250,Epidemic vertigo,A88.1,ICD10,Dizziness
+1569052,Disorders of vestibular function,H81,ICD10CM,Dizziness
+45543139,Disorders of vestibular function,H81,ICD10,Dizziness
+45567143,Ménière disease,H81.0,ICD10,Dizziness
+1569054,Benign paroxysmal vertigo,H81.1,ICD10CM,Dizziness
+45572061,Benign paroxysmal vertigo,H81.1,ICD10,Dizziness
+45576843,"Benign paroxysmal vertigo, unspecified ear",H81.10,ICD10CM,Dizziness
+45547987,"Benign paroxysmal vertigo, right ear",H81.11,ICD10CM,Dizziness
+45572062,"Benign paroxysmal vertigo, left ear",H81.12,ICD10CM,Dizziness
+45533418,"Benign paroxysmal vertigo, bilateral",H81.13,ICD10CM,Dizziness
+45562323,Vestibular neuronitis,H81.2,ICD10,Dizziness
+1569055,Vestibular neuronitis,H81.2,ICD10CM,Dizziness
+45586551,"Vestibular neuronitis, unspecified ear",H81.20,ICD10CM,Dizziness
+45596175,"Vestibular neuronitis, right ear",H81.21,ICD10CM,Dizziness
+45572063,"Vestibular neuronitis, left ear",H81.22,ICD10CM,Dizziness
+45576844,"Vestibular neuronitis, bilateral",H81.23,ICD10CM,Dizziness
+1569056,Other peripheral vertigo,H81.3,ICD10CM,Dizziness
+45543140,Other peripheral vertigo,H81.3,ICD10,Dizziness
+45533419,Aural vertigo,H81.31,ICD10CM,Dizziness
+45538352,"Aural vertigo, right ear",H81.311,ICD10CM,Dizziness
+45576845,"Aural vertigo, left ear",H81.312,ICD10CM,Dizziness
+45567144,"Aural vertigo, bilateral",H81.313,ICD10CM,Dizziness
+45605758,"Aural vertigo, unspecified ear",H81.319,ICD10CM,Dizziness
+1569057,Other peripheral vertigo,H81.39,ICD10CM,Dizziness
+45538353,"Other peripheral vertigo, right ear",H81.391,ICD10CM,Dizziness
+45605759,"Other peripheral vertigo, left ear",H81.392,ICD10CM,Dizziness
+45601008,"Other peripheral vertigo, bilateral",H81.393,ICD10CM,Dizziness
+45591436,"Other peripheral vertigo, unspecified ear",H81.399,ICD10CM,Dizziness
+1569058,Vertigo of central origin,H81.4,ICD10CM,Dizziness
+45538354,Vertigo of central origin,H81.4,ICD10,Dizziness
+45538355,"Vertigo of central origin, right ear",H81.41,ICD10CM,Dizziness
+45547988,"Vertigo of central origin, left ear",H81.42,ICD10CM,Dizziness
+45533420,"Vertigo of central origin, bilateral",H81.43,ICD10CM,Dizziness
+45605760,"Vertigo of central origin, unspecified ear",H81.49,ICD10CM,Dizziness
+1569059,Other disorders of vestibular function,H81.8,ICD10CM,Dizziness
+45552757,Other disorders of vestibular function,H81.8,ICD10,Dizziness
+1569060,Other disorders of vestibular function,H81.8X,ICD10CM,Dizziness
+45605761,"Other disorders of vestibular function, right ear",H81.8X1,ICD10CM,Dizziness
+45591437,"Other disorders of vestibular function, left ear",H81.8X2,ICD10CM,Dizziness
+45601009,"Other disorders of vestibular function, bilateral",H81.8X3,ICD10CM,Dizziness
+45586552,"Other disorders of vestibular function, unspecified ear",H81.8X9,ICD10CM,Dizziness
+45567145,"Disorder of vestibular function, unspecified",H81.9,ICD10,Dizziness
+1569061,Unspecified disorder of vestibular function,H81.9,ICD10CM,Dizziness
+45557524,"Unspecified disorder of vestibular function, unspecified ear",H81.90,ICD10CM,Dizziness
+45605762,"Unspecified disorder of vestibular function, right ear",H81.91,ICD10CM,Dizziness
+45543141,"Unspecified disorder of vestibular function, left ear",H81.92,ICD10CM,Dizziness
+45586553,"Unspecified disorder of vestibular function, bilateral",H81.93,ICD10CM,Dizziness
+45572064,Vertiginous syndromes in diseases classified elsewhere,H82,ICD10,Dizziness
+1569062,Vertiginous syndromes in diseases classified elsewhere,H82,ICD10CM,Dizziness
+45543142,"Vertiginous syndromes in diseases classified elsewhere, right ear",H82.1,ICD10CM,Dizziness
+45601010,"Vertiginous syndromes in diseases classified elsewhere, left ear",H82.2,ICD10CM,Dizziness
+45543143,"Vertiginous syndromes in diseases classified elsewhere, bilateral",H82.3,ICD10CM,Dizziness
+45591438,"Vertiginous syndromes in diseases classified elsewhere, unspecified ear",H82.9,ICD10CM,Dizziness
+45568132,Dizziness and giddiness,R42,ICD10,Dizziness
+35211350,Dizziness and giddiness,R42,ICD10CM,Dizziness
+19234,Vertigo from infrasound,T75.23,ICD10CM,Dizziness
+45590031,"Vertigo from infrasound, initial encounter",T75.23XA,ICD10CM,Dizziness
+45599715,"Vertigo from infrasound, subsequent encounter",T75.23XD,ICD10CM,Dizziness
+45580369,"Vertigo from infrasound, sequela",T75.23XS,ICD10CM,Dizziness
+1569803,Focal hyperhidrosis,L74.5,ICD10CM,ExcessiveSweating
+45548205,Primary focal hyperhidrosis,L74.51,ICD10CM,ExcessiveSweating
+45533650,"Primary focal hyperhidrosis, axilla",L74.510,ICD10CM,ExcessiveSweating
+45581961,"Primary focal hyperhidrosis, face",L74.511,ICD10CM,ExcessiveSweating
+45567367,"Primary focal hyperhidrosis, palms",L74.512,ICD10CM,ExcessiveSweating
+45557712,"Primary focal hyperhidrosis, soles",L74.513,ICD10CM,ExcessiveSweating
+45572280,"Primary focal hyperhidrosis, unspecified",L74.519,ICD10CM,ExcessiveSweating
+45605992,Secondary focal hyperhidrosis,L74.52,ICD10CM,ExcessiveSweating
+35211403,Generalized hyperhidrosis,R61,ICD10CM,ExcessiveSweating
+45553742,Hyperhidrosis,R61,ICD10,ExcessiveSweating
+45587522,Localized hyperhidrosis,R61.0,ICD10,ExcessiveSweating
+45597194,Generalized hyperhidrosis,R61.1,ICD10,ExcessiveSweating
+45582720,"Hyperhidrosis, unspecified",R61.9,ICD10,ExcessiveSweating
+45563320,Polydipsia,R63.1,ICD10,ExcessiveThirst
+35211406,Polydipsia,R63.1,ICD10CM,ExcessiveThirst
+45595967,Postviral fatigue syndrome,G93.3,ICD10,Fatigue
+35207505,Postviral and related fatigue syndromes,G93.3,ICD10CM,Fatigue
+37402486,Postviral fatigue syndrome,G93.31,ICD10CM,Fatigue
+37402487,Myalgic encephalomyelitis/chronic fatigue syndrome,G93.32,ICD10CM,Fatigue
+37402488,Other post infection and related fatigue syndromes,G93.39,ICD10CM,Fatigue
+45587018,Muscle weakness (generalized),M62.81,ICD10CM,Fatigue
+45553741,Malaise and fatigue,R53,ICD10,Fatigue
+1572255,Malaise and fatigue,R53,ICD10CM,Fatigue
+45602032,Weakness,R53.1,ICD10CM,Fatigue
+1572256,Other malaise and fatigue,R53.8,ICD10CM,Fatigue
+45582718,Other malaise,R53.81,ICD10CM,Fatigue
+45573032,"Chronic fatigue, unspecified",R53.82,ICD10CM,Fatigue
+45534458,Other fatigue,R53.83,ICD10CM,Fatigue
+45556915,Relapsing fevers,A68,ICD10,Fever
+1567325,Relapsing fevers,A68,ICD10CM,Fever
+35205632,"Relapsing fever, unspecified",A68.9,ICD10CM,Fever
+45537741,"Relapsing fever, unspecified",A68.9,ICD10,Fever
+45568138,Fever of other and unknown origin,R50,ICD10,Fever
+1572254,Fever of other and unknown origin,R50,ICD10CM,Fever
+45582715,Fever with chills,R50.0,ICD10,Fever
+45592423,Persistent fever,R50.1,ICD10,Fever
+35211385,Drug induced fever,R50.2,ICD10CM,Fever
+45577798,Drug-induced fever,R50.2,ICD10,Fever
+45548973,Other specified fever,R50.8,ICD10,Fever
+35211386,Other specified fever,R50.8,ICD10CM,Fever
+45606818,Fever presenting with conditions classified elsewhere,R50.81,ICD10CM,Fever
+45597189,Postprocedural fever,R50.82,ICD10CM,Fever
+45592424,Postvaccination fever,R50.83,ICD10CM,Fever
+45582716,"Fever, unspecified",R50.9,ICD10,Fever
+35211387,"Fever, unspecified",R50.9,ICD10CM,Fever
+1569792,Alopecia areata,L63,ICD10CM,HairLoss
+45533646,Alopecia areata,L63,ICD10,HairLoss
+35208591,Alopecia (capitis) totalis,L63.0,ICD10CM,HairLoss
+45543376,Alopecia (capitis) totalis,L63.0,ICD10,HairLoss
+35208592,Alopecia universalis,L63.1,ICD10CM,HairLoss
+45548201,Alopecia universalis,L63.1,ICD10,HairLoss
+45577048,Ophiasis,L63.2,ICD10,HairLoss
+35208593,Ophiasis,L63.2,ICD10CM,HairLoss
+45557708,Other alopecia areata,L63.8,ICD10,HairLoss
+35208594,Other alopecia areata,L63.8,ICD10CM,HairLoss
+35208595,"Alopecia areata, unspecified",L63.9,ICD10CM,HairLoss
+45596382,"Alopecia areata, unspecified",L63.9,ICD10,HairLoss
+45596383,Androgenic alopecia,L64,ICD10,HairLoss
+1569793,Androgenic alopecia,L64,ICD10CM,HairLoss
+45601227,Drug-induced androgenic alopecia,L64.0,ICD10,HairLoss
+35208596,Drug-induced androgenic alopecia,L64.0,ICD10CM,HairLoss
+35208597,Other androgenic alopecia,L64.8,ICD10CM,HairLoss
+45581954,Other androgenic alopecia,L64.8,ICD10,HairLoss
+45567364,"Androgenic alopecia, unspecified",L64.9,ICD10,HairLoss
+35208598,"Androgenic alopecia, unspecified",L64.9,ICD10CM,HairLoss
+1569794,Other nonscarring hair loss,L65,ICD10CM,HairLoss
+45572277,Other nonscarring hair loss,L65,ICD10,HairLoss
+45586775,Telogen effluvium,L65.0,ICD10,HairLoss
+35208599,Telogen effluvium,L65.0,ICD10CM,HairLoss
+35208600,Anagen effluvium,L65.1,ICD10CM,HairLoss
+45533647,Anagen effluvium,L65.1,ICD10,HairLoss
+35208601,Alopecia mucinosa,L65.2,ICD10CM,HairLoss
+45562543,Alopecia mucinosa,L65.2,ICD10,HairLoss
+45557709,Other specified nonscarring hair loss,L65.8,ICD10,HairLoss
+35208602,Other specified nonscarring hair loss,L65.8,ICD10CM,HairLoss
+35208603,"Nonscarring hair loss, unspecified",L65.9,ICD10CM,HairLoss
+45605989,"Nonscarring hair loss, unspecified",L65.9,ICD10,HairLoss
+1569795,Cicatricial alopecia [scarring hair loss],L66,ICD10CM,HairLoss
+45601228,Cicatricial alopecia [scarring hair loss],L66,ICD10,HairLoss
+35208604,Pseudopelade,L66.0,ICD10CM,HairLoss
+45581955,Pseudopelade,L66.0,ICD10,HairLoss
+45538579,Lichen planopilaris,L66.1,ICD10,HairLoss
+35208605,Lichen planopilaris,L66.1,ICD10CM,HairLoss
+45533648,Folliculitis decalvans,L66.2,ICD10,HairLoss
+35208606,Folliculitis decalvans,L66.2,ICD10CM,HairLoss
+35208607,Perifolliculitis capitis abscedens,L66.3,ICD10CM,HairLoss
+45538580,Perifolliculitis capitis abscedens,L66.3,ICD10,HairLoss
+45548202,Folliculitis ulerythematosa reticulata,L66.4,ICD10,HairLoss
+35208608,Folliculitis ulerythematosa reticulata,L66.4,ICD10CM,HairLoss
+45538581,Other cicatricial alopecia,L66.8,ICD10,HairLoss
+35208609,Other cicatricial alopecia,L66.8,ICD10CM,HairLoss
+45581956,"Cicatricial alopecia, unspecified",L66.9,ICD10,HairLoss
+35208610,"Cicatricial alopecia, unspecified",L66.9,ICD10CM,HairLoss
+1568330,Migraine,G43,ICD10CM,Headache
+45566873,Migraine,G43,ICD10,Headache
+45600784,Migraine without aura [common migraine],G43.0,ICD10,Headache
+1568331,Migraine without aura,G43.0,ICD10CM,Headache
+35207378,"Migraine without aura, not intractable",G43.00,ICD10CM,Headache
+45566874,"Migraine without aura, not intractable, with status migrainosus",G43.001,ICD10CM,Headache
+45533136,"Migraine without aura, not intractable, without status migrainosus",G43.009,ICD10CM,Headache
+35207379,"Migraine without aura, intractable",G43.01,ICD10CM,Headache
+45538108,"Migraine without aura, intractable, with status migrainosus",G43.011,ICD10CM,Headache
+45557236,"Migraine without aura, intractable, without status migrainosus",G43.019,ICD10CM,Headache
+1568332,Migraine with aura,G43.1,ICD10CM,Headache
+45562086,Migraine with aura [classical migraine],G43.1,ICD10,Headache
+35207380,"Migraine with aura, not intractable",G43.10,ICD10CM,Headache
+45605543,"Migraine with aura, not intractable, with status migrainosus",G43.101,ICD10CM,Headache
+45562087,"Migraine with aura, not intractable, without status migrainosus",G43.109,ICD10CM,Headache
+35207381,"Migraine with aura, intractable",G43.11,ICD10CM,Headache
+45566875,"Migraine with aura, intractable, with status migrainosus",G43.111,ICD10CM,Headache
+45552527,"Migraine with aura, intractable, without status migrainosus",G43.119,ICD10CM,Headache
+35207382,Status migrainosus,G43.2,ICD10CM,Headache
+45605544,Status migrainosus,G43.2,ICD10,Headache
+45576576,Complicated migraine,G43.3,ICD10,Headache
+45562088,Hemiplegic migraine,G43.4,ICD10CM,Headache
+35207383,"Hemiplegic migraine, not intractable",G43.40,ICD10CM,Headache
+45547732,"Hemiplegic migraine, not intractable, with status migrainosus",G43.401,ICD10CM,Headache
+45538109,"Hemiplegic migraine, not intractable, without status migrainosus",G43.409,ICD10CM,Headache
+35207384,"Hemiplegic migraine, intractable",G43.41,ICD10CM,Headache
+45586289,"Hemiplegic migraine, intractable, with status migrainosus",G43.411,ICD10CM,Headache
+45538110,"Hemiplegic migraine, intractable, without status migrainosus",G43.419,ICD10CM,Headache
+1568333,Persistent migraine aura without cerebral infarction,G43.5,ICD10CM,Headache
+35207385,"Persistent migraine aura without cerebral infarction, not intractable",G43.50,ICD10CM,Headache
+45586290,"Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",G43.501,ICD10CM,Headache
+45533137,"Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus",G43.509,ICD10CM,Headache
+35207386,"Persistent migraine aura without cerebral infarction, intractable",G43.51,ICD10CM,Headache
+45595940,"Persistent migraine aura without cerebral infarction, intractable, with status migrainosus",G43.511,ICD10CM,Headache
+45586291,"Persistent migraine aura without cerebral infarction, intractable, without status migrainosus",G43.519,ICD10CM,Headache
+1568334,Persistent migraine aura with cerebral infarction,G43.6,ICD10CM,Headache
+1568335,"Persistent migraine aura with cerebral infarction, not intractable",G43.60,ICD10CM,Headache
+45547733,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",G43.601,ICD10CM,Headache
+45605545,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",G43.609,ICD10CM,Headache
+1568336,"Persistent migraine aura with cerebral infarction, intractable",G43.61,ICD10CM,Headache
+45605546,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",G43.611,ICD10CM,Headache
+45547734,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",G43.619,ICD10CM,Headache
+1568337,Chronic migraine without aura,G43.7,ICD10CM,Headache
+35207387,"Chronic migraine without aura, not intractable",G43.70,ICD10CM,Headache
+45533138,"Chronic migraine without aura, not intractable, with status migrainosus",G43.701,ICD10CM,Headache
+45591178,"Chronic migraine without aura, not intractable, without status migrainosus",G43.709,ICD10CM,Headache
+35207388,"Chronic migraine without aura, intractable",G43.71,ICD10CM,Headache
+45581491,"Chronic migraine without aura, intractable, with status migrainosus",G43.711,ICD10CM,Headache
+45600785,"Chronic migraine without aura, intractable, without status migrainosus",G43.719,ICD10CM,Headache
+1568339,Other migraine,G43.8,ICD10CM,Headache
+45595941,Other migraine,G43.8,ICD10,Headache
+1568340,"Other migraine, not intractable",G43.80,ICD10CM,Headache
+45552528,"Other migraine, not intractable, with status migrainosus",G43.801,ICD10CM,Headache
+45586292,"Other migraine, not intractable, without status migrainosus",G43.809,ICD10CM,Headache
+1568341,"Other migraine, intractable",G43.81,ICD10CM,Headache
+45557237,"Other migraine, intractable, with status migrainosus",G43.811,ICD10CM,Headache
+45538111,"Other migraine, intractable, without status migrainosus",G43.819,ICD10CM,Headache
+1568342,"Menstrual migraine, not intractable",G43.82,ICD10CM,Headache
+45571802,"Menstrual migraine, not intractable, with status migrainosus",G43.821,ICD10CM,Headache
+45571803,"Menstrual migraine, not intractable, without status migrainosus",G43.829,ICD10CM,Headache
+1568343,"Menstrual migraine, intractable",G43.83,ICD10CM,Headache
+45571804,"Menstrual migraine, intractable, with status migrainosus",G43.831,ICD10CM,Headache
+45595942,"Menstrual migraine, intractable, without status migrainosus",G43.839,ICD10CM,Headache
+35207389,"Other migraine, intractable",G43.891,ICD10CM,Headache
+35207390,"Other migraine, not intractable",G43.899,ICD10CM,Headache
+1568344,"Migraine, unspecified",G43.9,ICD10CM,Headache
+45595943,"Migraine, unspecified",G43.9,ICD10,Headache
+35207391,"Migraine, unspecified, not intractable",G43.90,ICD10CM,Headache
+45542887,"Migraine, unspecified, not intractable, with status migrainosus",G43.901,ICD10CM,Headache
+45600786,"Migraine, unspecified, not intractable, without status migrainosus",G43.909,ICD10CM,Headache
+35207392,"Migraine, unspecified, intractable",G43.91,ICD10CM,Headache
+45557238,"Migraine, unspecified, intractable, with status migrainosus",G43.911,ICD10CM,Headache
+45571805,"Migraine, unspecified, intractable, without status migrainosus",G43.919,ICD10CM,Headache
+45581492,Cyclical vomiting,G43.A,ICD10CM,Headache
+45538112,"Cyclical vomiting, in migraine, not intractable",G43.A0,ICD10CM,Headache
+45591179,"Cyclical vomiting, not intractable, with status migrainosus",G43.A01,ICD10CM,Headache
+45533139,"Cyclical vomiting, not intractable, without status migrainosus",G43.A09,ICD10CM,Headache
+45605547,"Cyclical vomiting, in migraine, intractable",G43.A1,ICD10CM,Headache
+45562089,"Cyclical vomiting, intractable, with status migrainosus",G43.A11,ICD10CM,Headache
+45581493,"Cyclical vomiting, intractable, without status migrainosus",G43.A19,ICD10CM,Headache
+45566876,Ophthalmoplegic migraine,G43.B,ICD10CM,Headache
+45547735,"Ophthalmoplegic migraine, not intractable",G43.B0,ICD10CM,Headache
+45552529,"Ophthalmoplegic migraine, not intractable, with status migrainosus",G43.B01,ICD10CM,Headache
+45538113,"Ophthalmoplegic migraine, not intractable, without status migrainosus",G43.B09,ICD10CM,Headache
+45538114,"Ophthalmoplegic migraine, intractable",G43.B1,ICD10CM,Headache
+45566877,"Ophthalmoplegic migraine, intractable, with status migrainosus",G43.B11,ICD10CM,Headache
+45591180,"Ophthalmoplegic migraine, intractable, without status migrainosus",G43.B19,ICD10CM,Headache
+1568338,Periodic headache syndromes in child or adult,G43.C,ICD10CM,Headache
+45591181,"Periodic headache syndromes in child or adult, not intractable",G43.C0,ICD10CM,Headache
+45581494,"Periodic headache syndromes in child or adult, not intractable, with status migrainosus",G43.C01,ICD10CM,Headache
+45571806,"Periodic headache syndromes in child or adult, not intractable, without status migrainosus",G43.C09,ICD10CM,Headache
+45538115,"Periodic headache syndromes in child or adult, intractable",G43.C1,ICD10CM,Headache
+45562090,"Periodic headache syndromes in child or adult, intractable, with status migrainosus",G43.C11,ICD10CM,Headache
+45576577,"Periodic headache syndromes in child or adult, intractable, without status migrainosus",G43.C19,ICD10CM,Headache
+45600787,Abdominal migraine,G43.D,ICD10CM,Headache
+45552530,"Abdominal migraine, not intractable",G43.D0,ICD10CM,Headache
+45595944,"Menstrual migraine, not intractable, with status migrainosus",G43.D01,ICD10CM,Headache
+45538116,"Menstrual migraine, not intractable, without status migrainosus",G43.D09,ICD10CM,Headache
+45533140,"Abdominal migraine, intractable",G43.D1,ICD10CM,Headache
+45576578,"Menstrual migraine, intractable, with status migrainosus",G43.D11,ICD10CM,Headache
+45591182,"Menstrual migraine, intractable, without status migrainosus",G43.D19,ICD10CM,Headache
+1568345,Other headache syndromes,G44,ICD10CM,Headache
+45755406,Other headache syndromes,G44,ICD10,Headache
+45533141,Cluster headache syndrome,G44.0,ICD10,Headache
+1568346,Cluster headaches and other trigeminal autonomic cephalgias (TAC),G44.0,ICD10CM,Headache
+1568347,"Cluster headache syndrome, unspecified",G44.00,ICD10CM,Headache
+45566878,"Cluster headache syndrome, unspecified, intractable",G44.001,ICD10CM,Headache
+45605548,"Cluster headache syndrome, unspecified, not intractable",G44.009,ICD10CM,Headache
+45586293,Episodic cluster headache,G44.01,ICD10CM,Headache
+45605549,"Episodic cluster headache, intractable",G44.011,ICD10CM,Headache
+45533142,"Episodic cluster headache, not intractable",G44.019,ICD10CM,Headache
+45566879,Chronic cluster headache,G44.02,ICD10CM,Headache
+45605550,"Chronic cluster headache, intractable",G44.021,ICD10CM,Headache
+45571807,"Chronic cluster headache, not intractable",G44.029,ICD10CM,Headache
+1568348,Episodic paroxysmal hemicrania,G44.03,ICD10CM,Headache
+45591183,"Episodic paroxysmal hemicrania, intractable",G44.031,ICD10CM,Headache
+45600788,"Episodic paroxysmal hemicrania, not intractable",G44.039,ICD10CM,Headache
+45576580,Chronic paroxysmal hemicrania,G44.04,ICD10CM,Headache
+45605551,"Chronic paroxysmal hemicrania, intractable",G44.041,ICD10CM,Headache
+45547737,"Chronic paroxysmal hemicrania, not intractable",G44.049,ICD10CM,Headache
+1568349,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT),G44.05,ICD10CM,Headache
+45542888,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable",G44.051,ICD10CM,Headache
+45605552,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable",G44.059,ICD10CM,Headache
+1568350,Other trigeminal autonomic cephalgias (TAC),G44.09,ICD10CM,Headache
+45533143,"Other trigeminal autonomic cephalgias (TAC), intractable",G44.091,ICD10CM,Headache
+45576581,"Other trigeminal autonomic cephalgias (TAC), not intractable",G44.099,ICD10CM,Headache
+1568351,"Vascular headache, not elsewhere classified",G44.1,ICD10CM,Headache
+45571808,"Vascular headache, not elsewhere classified",G44.1,ICD10,Headache
+45552531,"Vascular headache, not elsewhere classified, not intractable",G44.10,ICD10CM,Headache
+45595945,"Vascular headache, not elsewhere classified, intractable",G44.11,ICD10CM,Headache
+1568352,Tension-type headache,G44.2,ICD10CM,Headache
+45581495,Tension-type headache,G44.2,ICD10,Headache
+1568353,"Tension-type headache, unspecified",G44.20,ICD10CM,Headache
+45542889,"Tension-type headache, unspecified, intractable",G44.201,ICD10CM,Headache
+45547738,"Tension-type headache, unspecified, not intractable",G44.209,ICD10CM,Headache
+45547739,Episodic tension-type headache,G44.21,ICD10CM,Headache
+45566880,"Episodic tension-type headache, intractable",G44.211,ICD10CM,Headache
+45566881,"Episodic tension-type headache, not intractable",G44.219,ICD10CM,Headache
+45562091,Chronic tension-type headache,G44.22,ICD10CM,Headache
+45605553,"Chronic tension-type headache, intractable",G44.221,ICD10CM,Headache
+45542890,"Chronic tension-type headache, not intractable",G44.229,ICD10CM,Headache
+1568354,Post-traumatic headache,G44.3,ICD10CM,Headache
+45581496,Chronic post-traumatic headache,G44.3,ICD10,Headache
+1568355,"Post-traumatic headache, unspecified",G44.30,ICD10CM,Headache
+45576582,"Post-traumatic headache, unspecified, intractable",G44.301,ICD10CM,Headache
+45566882,"Post-traumatic headache, unspecified, not intractable",G44.309,ICD10CM,Headache
+1568356,Acute post-traumatic headache,G44.31,ICD10CM,Headache
+45538117,"Acute post-traumatic headache, intractable",G44.311,ICD10CM,Headache
+45605554,"Acute post-traumatic headache, not intractable",G44.319,ICD10CM,Headache
+45552532,Chronic post-traumatic headache,G44.32,ICD10CM,Headache
+45542891,"Chronic post-traumatic headache, intractable",G44.321,ICD10CM,Headache
+45538118,"Chronic post-traumatic headache, not intractable",G44.329,ICD10CM,Headache
+1568357,"Drug-induced headache, not elsewhere classified",G44.4,ICD10CM,Headache
+45595946,"Drug-induced headache, not elsewhere classified",G44.4,ICD10,Headache
+45538119,"Drug-induced headache, not elsewhere classified, not intractable",G44.40,ICD10CM,Headache
+45547740,"Drug-induced headache, not elsewhere classified, intractable",G44.41,ICD10CM,Headache
+1568358,Complicated headache syndromes,G44.5,ICD10CM,Headache
+45552533,Hemicrania continua,G44.51,ICD10CM,Headache
+45576583,New daily persistent headache (NDPH),G44.52,ICD10CM,Headache
+45586294,Primary thunderclap headache,G44.53,ICD10CM,Headache
+45600789,Other complicated headache syndrome,G44.59,ICD10CM,Headache
+1568359,Other specified headache syndromes,G44.8,ICD10CM,Headache
+45547741,Other specified headache syndromes,G44.8,ICD10,Headache
+45591184,Hypnic headache,G44.81,ICD10CM,Headache
+45586295,Headache associated with sexual activity,G44.82,ICD10CM,Headache
+45576584,Primary cough headache,G44.83,ICD10CM,Headache
+45600790,Primary exertional headache,G44.84,ICD10CM,Headache
+45576585,Primary stabbing headache,G44.85,ICD10CM,Headache
+766354,Cervicogenic headache,G44.86,ICD10CM,Headache
+45533144,Other headache syndrome,G44.89,ICD10CM,Headache
+35211388,Headache,R51,ICD10CM,Headache
+45558474,Headache,R51,ICD10,Headache
+725458,"Headache with orthostatic component, not elsewhere classified",R51.0,ICD10CM,Headache
+725459,"Headache, unspecified",R51.9,ICD10CM,Headache
+45755408,Atrioventricular and left bundle-branch block,I44,ICD10,HeartProblems
+1569162,Atrioventricular and left bundle-branch block,I44,ICD10CM,HeartProblems
+45543176,"Atrioventricular block, first degree",I44.0,ICD10,HeartProblems
+35207766,"Atrioventricular block, first degree",I44.0,ICD10CM,HeartProblems
+35207767,"Atrioventricular block, second degree",I44.1,ICD10CM,HeartProblems
+45543177,"Atrioventricular block, second degree",I44.1,ICD10,HeartProblems
+45576872,"Atrioventricular block, complete",I44.2,ICD10,HeartProblems
+35207768,"Atrioventricular block, complete",I44.2,ICD10CM,HeartProblems
+45581774,Other and unspecified atrioventricular block,I44.3,ICD10,HeartProblems
+1569163,Other and unspecified atrioventricular block,I44.3,ICD10CM,HeartProblems
+45596204,Unspecified atrioventricular block,I44.30,ICD10CM,HeartProblems
+45552792,Other atrioventricular block,I44.39,ICD10CM,HeartProblems
+35207769,Left anterior fascicular block,I44.4,ICD10CM,HeartProblems
+45601035,Left anterior fascicular block,I44.4,ICD10,HeartProblems
+45567176,Left posterior fascicular block,I44.5,ICD10,HeartProblems
+35207770,Left posterior fascicular block,I44.5,ICD10CM,HeartProblems
+45533452,Other and unspecified fascicular block,I44.6,ICD10,HeartProblems
+1569164,Other and unspecified fascicular block,I44.6,ICD10CM,HeartProblems
+45562351,Unspecified fascicular block,I44.60,ICD10CM,HeartProblems
+45581775,Other fascicular block,I44.69,ICD10CM,HeartProblems
+45586583,"Left bundle-branch block, unspecified",I44.7,ICD10,HeartProblems
+35207771,"Left bundle-branch block, unspecified",I44.7,ICD10CM,HeartProblems
+1569165,Other conduction disorders,I45,ICD10CM,HeartProblems
+45576873,Other conduction disorders,I45,ICD10,HeartProblems
+35207772,Right fascicular block,I45.0,ICD10CM,HeartProblems
+45601036,Right fascicular block,I45.0,ICD10,HeartProblems
+45586584,Other and unspecified right bundle-branch block,I45.1,ICD10,HeartProblems
+1569166,Other and unspecified right bundle-branch block,I45.1,ICD10CM,HeartProblems
+45557544,Unspecified right bundle-branch block,I45.10,ICD10CM,HeartProblems
+45596205,Other right bundle-branch block,I45.19,ICD10CM,HeartProblems
+35207773,Bifascicular block,I45.2,ICD10CM,HeartProblems
+45586585,Bifascicular block,I45.2,ICD10,HeartProblems
+45576874,Trifascicular block,I45.3,ICD10,HeartProblems
+35207774,Trifascicular block,I45.3,ICD10CM,HeartProblems
+35207775,Nonspecific intraventricular block,I45.4,ICD10CM,HeartProblems
+45533453,Nonspecific intraventricular block,I45.4,ICD10,HeartProblems
+45548019,Other specified heart block,I45.5,ICD10,HeartProblems
+35207776,Other specified heart block,I45.5,ICD10CM,HeartProblems
+35207777,Pre-excitation syndrome,I45.6,ICD10CM,HeartProblems
+45543178,Pre-excitation syndrome,I45.6,ICD10,HeartProblems
+45548020,Other specified conduction disorders,I45.8,ICD10,HeartProblems
+1569167,Other specified conduction disorders,I45.8,ICD10CM,HeartProblems
+45562352,Long QT syndrome,I45.81,ICD10CM,HeartProblems
+45605798,Other specified conduction disorders,I45.89,ICD10CM,HeartProblems
+45601037,"Conduction disorder, unspecified",I45.9,ICD10,HeartProblems
+35207778,"Conduction disorder, unspecified",I45.9,ICD10CM,HeartProblems
+1569169,Paroxysmal tachycardia,I47,ICD10CM,HeartProblems
+45538384,Paroxysmal tachycardia,I47,ICD10,HeartProblems
+35207780,Re-entry ventricular arrhythmia,I47.0,ICD10CM,HeartProblems
+45572092,Re-entry ventricular arrhythmia,I47.0,ICD10,HeartProblems
+35207781,Supraventricular tachycardia,I47.1,ICD10CM,HeartProblems
+45567178,Supraventricular tachycardia,I47.1,ICD10,HeartProblems
+45586586,Ventricular tachycardia,I47.2,ICD10,HeartProblems
+35207782,Ventricular tachycardia,I47.2,ICD10CM,HeartProblems
+37402490,"Ventricular tachycardia, unspecified",I47.20,ICD10CM,HeartProblems
+37402503,Torsades de pointes,I47.21,ICD10CM,HeartProblems
+37402504,Other ventricular tachycardia,I47.29,ICD10CM,HeartProblems
+45605799,"Paroxysmal tachycardia, unspecified",I47.9,ICD10,HeartProblems
+35207783,"Paroxysmal tachycardia, unspecified",I47.9,ICD10CM,HeartProblems
+1569170,Atrial fibrillation and flutter,I48,ICD10CM,HeartProblems
+45581776,Paroxysmal atrial fibrillation,I48.0,ICD10,HeartProblems
+35207784,Paroxysmal atrial fibrillation,I48.0,ICD10CM,HeartProblems
+35207785,Persistent atrial fibrillation,I48.1,ICD10CM,HeartProblems
+45548021,Persistent atrial fibrillation,I48.1,ICD10,HeartProblems
+1553751,Longstanding persistent atrial fibrillation,I48.11,ICD10CM,HeartProblems
+1553752,Other persistent atrial fibrillation,I48.19,ICD10CM,HeartProblems
+45591467,Chronic atrial fibrillation,I48.2,ICD10,HeartProblems
+1569171,Chronic atrial fibrillation,I48.2,ICD10CM,HeartProblems
+1553753,"Chronic atrial fibrillation, unspecified",I48.20,ICD10CM,HeartProblems
+1553754,Permanent atrial fibrillation,I48.21,ICD10CM,HeartProblems
+1569174,Unspecified atrial fibrillation and atrial flutter,I48.9,ICD10CM,HeartProblems
+45576876,Unspecified atrial fibrillation,I48.91,ICD10CM,HeartProblems
+1569176,Ventricular fibrillation and flutter,I49.0,ICD10CM,HeartProblems
+45552794,Ventricular fibrillation and flutter,I49.0,ICD10,HeartProblems
+45533455,Ventricular flutter,I49.02,ICD10CM,HeartProblems
+45577775,Abnormalities of heart beat,R00,ICD10,HeartProblems
+1572186,Abnormalities of heart beat,R00,ICD10CM,HeartProblems
+45606790,"Tachycardia, unspecified",R00.0,ICD10,HeartProblems
+35211261,"Tachycardia, unspecified",R00.0,ICD10CM,HeartProblems
+35211262,"Bradycardia, unspecified",R00.1,ICD10CM,HeartProblems
+45539313,"Bradycardia, unspecified",R00.1,ICD10,HeartProblems
+45558446,Palpitations,R00.2,ICD10,HeartProblems
+35211263,Palpitations,R00.2,ICD10CM,HeartProblems
+710667,"Pulseless electrical activity, not elsewhere classified",R00.3,ICD10,HeartProblems
+45534420,Other and unspecified abnormalities of heart beat,R00.8,ICD10,HeartProblems
+35211264,Other abnormalities of heart beat,R00.8,ICD10CM,HeartProblems
+45577776,Unspecified abnormalities of heart beat,R00.9,ICD10CM,HeartProblems
+45548969,Nervousness,R45.0,ICD10,Irritability
+35211360,Nervousness,R45.0,ICD10CM,Irritability
+35211361,Restlessness and agitation,R45.1,ICD10CM,Irritability
+45597185,Restlessness and agitation,R45.1,ICD10,Irritability
+45582712,Irritability and anger,R45.4,ICD10,Irritability
+35211364,Irritability and anger,R45.4,ICD10CM,Irritability
+45581155,Epidemic myalgia,B33.0,ICD10,Myalgia
+35205793,Epidemic myalgia,B33.0,ICD10CM,Myalgia
+45587062,Myalgia,M79.1,ICD10,Myalgia
+35209006,Myalgia,M79.1,ICD10CM,Myalgia
+1595617,"Myalgia, unspecified site",M79.10,ICD10CM,Myalgia
+42618441,"Myalgia, multiple sites",M79.10,ICD10,Myalgia
+42618442,"Myalgia, shoulder region",M79.11,ICD10,Myalgia
+1595618,Myalgia of mastication muscle,M79.11,ICD10CM,Myalgia
+42618443,"Myalgia, upper arm",M79.12,ICD10,Myalgia
+1595619,"Myalgia of auxiliary muscles, head and neck",M79.12,ICD10CM,Myalgia
+42618444,"Myalgia, forearm",M79.13,ICD10,Myalgia
+42618445,"Myalgia, hand",M79.14,ICD10,Myalgia
+42618446,"Myalgia, pelvic region and thigh",M79.15,ICD10,Myalgia
+42618447,"Myalgia, lower leg",M79.16,ICD10,Myalgia
+42618448,"Myalgia, ankle and foot",M79.17,ICD10,Myalgia
+1595620,"Myalgia, other site",M79.18,ICD10CM,Myalgia
+42618449,"Myalgia, other",M79.18,ICD10,Myalgia
+42618450,"Myalgia, site unspecified",M79.19,ICD10,Myalgia
+35209011,Fibromyalgia,M79.7,ICD10CM,Myalgia
+45553272,Fibromyalgia,M79.7,ICD10,Myalgia
+42618491,"Fibromyalgia, multiple sites",M79.70,ICD10,Myalgia
+42618492,"Fibromyalgia, shoulder region",M79.71,ICD10,Myalgia
+42618493,"Fibromyalgia, upper arm",M79.72,ICD10,Myalgia
+42618494,"Fibromyalgia, forearm",M79.73,ICD10,Myalgia
+42618495,"Fibromyalgia, hand",M79.74,ICD10,Myalgia
+42618496,"Fibromyalgia, pelvic region and thigh",M79.75,ICD10,Myalgia
+42618497,"Fibromyalgia, lower leg",M79.76,ICD10,Myalgia
+42618498,"Fibromyalgia, ankle and foot",M79.77,ICD10,Myalgia
+42618499,"Fibromyalgia, other",M79.78,ICD10,Myalgia
+42618500,"Fibromyalgia, site unspecified",M79.79,ICD10,Myalgia
+45561738,Postherpetic trigeminal neuralgia,B02.22,ICD10CM,Pain
+45605498,Persistent somatoform pain disorder,F45.4,ICD10,Pain
+1568238,Pain disorders related to psychological factors,F45.4,ICD10CM,Pain
+45547711,Pain disorder exclusively related to psychological factors,F45.41,ICD10CM,Pain
+45542852,Pain disorder with related psychological factors,F45.42,ICD10CM,Pain
+1568330,Migraine,G43,ICD10CM,Pain
+45566873,Migraine,G43,ICD10,Pain
+45600784,Migraine without aura [common migraine],G43.0,ICD10,Pain
+1568331,Migraine without aura,G43.0,ICD10CM,Pain
+35207378,"Migraine without aura, not intractable",G43.00,ICD10CM,Pain
+45566874,"Migraine without aura, not intractable, with status migrainosus",G43.001,ICD10CM,Pain
+45533136,"Migraine without aura, not intractable, without status migrainosus",G43.009,ICD10CM,Pain
+35207379,"Migraine without aura, intractable",G43.01,ICD10CM,Pain
+45538108,"Migraine without aura, intractable, with status migrainosus",G43.011,ICD10CM,Pain
+45557236,"Migraine without aura, intractable, without status migrainosus",G43.019,ICD10CM,Pain
+45562086,Migraine with aura [classical migraine],G43.1,ICD10,Pain
+1568332,Migraine with aura,G43.1,ICD10CM,Pain
+35207380,"Migraine with aura, not intractable",G43.10,ICD10CM,Pain
+45605543,"Migraine with aura, not intractable, with status migrainosus",G43.101,ICD10CM,Pain
+45562087,"Migraine with aura, not intractable, without status migrainosus",G43.109,ICD10CM,Pain
+35207381,"Migraine with aura, intractable",G43.11,ICD10CM,Pain
+45566875,"Migraine with aura, intractable, with status migrainosus",G43.111,ICD10CM,Pain
+45552527,"Migraine with aura, intractable, without status migrainosus",G43.119,ICD10CM,Pain
+45605544,Status migrainosus,G43.2,ICD10,Pain
+45576576,Complicated migraine,G43.3,ICD10,Pain
+45562088,Hemiplegic migraine,G43.4,ICD10CM,Pain
+35207383,"Hemiplegic migraine, not intractable",G43.40,ICD10CM,Pain
+45547732,"Hemiplegic migraine, not intractable, with status migrainosus",G43.401,ICD10CM,Pain
+45538109,"Hemiplegic migraine, not intractable, without status migrainosus",G43.409,ICD10CM,Pain
+35207384,"Hemiplegic migraine, intractable",G43.41,ICD10CM,Pain
+45586289,"Hemiplegic migraine, intractable, with status migrainosus",G43.411,ICD10CM,Pain
+45538110,"Hemiplegic migraine, intractable, without status migrainosus",G43.419,ICD10CM,Pain
+1568333,Persistent migraine aura without cerebral infarction,G43.5,ICD10CM,Pain
+35207385,"Persistent migraine aura without cerebral infarction, not intractable",G43.50,ICD10CM,Pain
+45586290,"Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",G43.501,ICD10CM,Pain
+45533137,"Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus",G43.509,ICD10CM,Pain
+35207386,"Persistent migraine aura without cerebral infarction, intractable",G43.51,ICD10CM,Pain
+45595940,"Persistent migraine aura without cerebral infarction, intractable, with status migrainosus",G43.511,ICD10CM,Pain
+45586291,"Persistent migraine aura without cerebral infarction, intractable, without status migrainosus",G43.519,ICD10CM,Pain
+1568334,Persistent migraine aura with cerebral infarction,G43.6,ICD10CM,Pain
+1568335,"Persistent migraine aura with cerebral infarction, not intractable",G43.60,ICD10CM,Pain
+45547733,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",G43.601,ICD10CM,Pain
+45605545,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",G43.609,ICD10CM,Pain
+1568336,"Persistent migraine aura with cerebral infarction, intractable",G43.61,ICD10CM,Pain
+45605546,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",G43.611,ICD10CM,Pain
+45547734,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",G43.619,ICD10CM,Pain
+1568337,Chronic migraine without aura,G43.7,ICD10CM,Pain
+35207387,"Chronic migraine without aura, not intractable",G43.70,ICD10CM,Pain
+45533138,"Chronic migraine without aura, not intractable, with status migrainosus",G43.701,ICD10CM,Pain
+45591178,"Chronic migraine without aura, not intractable, without status migrainosus",G43.709,ICD10CM,Pain
+35207388,"Chronic migraine without aura, intractable",G43.71,ICD10CM,Pain
+45581491,"Chronic migraine without aura, intractable, with status migrainosus",G43.711,ICD10CM,Pain
+45600785,"Chronic migraine without aura, intractable, without status migrainosus",G43.719,ICD10CM,Pain
+45595941,Other migraine,G43.8,ICD10,Pain
+1568339,Other migraine,G43.8,ICD10CM,Pain
+1568340,"Other migraine, not intractable",G43.80,ICD10CM,Pain
+45552528,"Other migraine, not intractable, with status migrainosus",G43.801,ICD10CM,Pain
+45586292,"Other migraine, not intractable, without status migrainosus",G43.809,ICD10CM,Pain
+1568341,"Other migraine, intractable",G43.81,ICD10CM,Pain
+45557237,"Other migraine, intractable, with status migrainosus",G43.811,ICD10CM,Pain
+45538111,"Other migraine, intractable, without status migrainosus",G43.819,ICD10CM,Pain
+1568342,"Menstrual migraine, not intractable",G43.82,ICD10CM,Pain
+45571802,"Menstrual migraine, not intractable, with status migrainosus",G43.821,ICD10CM,Pain
+45571803,"Menstrual migraine, not intractable, without status migrainosus",G43.829,ICD10CM,Pain
+1568343,"Menstrual migraine, intractable",G43.83,ICD10CM,Pain
+45571804,"Menstrual migraine, intractable, with status migrainosus",G43.831,ICD10CM,Pain
+45595942,"Menstrual migraine, intractable, without status migrainosus",G43.839,ICD10CM,Pain
+45595943,"Migraine, unspecified",G43.9,ICD10,Pain
+1568344,"Migraine, unspecified",G43.9,ICD10CM,Pain
+35207391,"Migraine, unspecified, not intractable",G43.90,ICD10CM,Pain
+45542887,"Migraine, unspecified, not intractable, with status migrainosus",G43.901,ICD10CM,Pain
+45600786,"Migraine, unspecified, not intractable, without status migrainosus",G43.909,ICD10CM,Pain
+35207392,"Migraine, unspecified, intractable",G43.91,ICD10CM,Pain
+45557238,"Migraine, unspecified, intractable, with status migrainosus",G43.911,ICD10CM,Pain
+45571805,"Migraine, unspecified, intractable, without status migrainosus",G43.919,ICD10CM,Pain
+45566876,Ophthalmoplegic migraine,G43.B,ICD10CM,Pain
+45547735,"Ophthalmoplegic migraine, not intractable",G43.B0,ICD10CM,Pain
+45538114,"Ophthalmoplegic migraine, intractable",G43.B1,ICD10CM,Pain
+1568338,Periodic headache syndromes in child or adult,G43.C,ICD10CM,Pain
+45591181,"Periodic headache syndromes in child or adult, not intractable",G43.C0,ICD10CM,Pain
+45538115,"Periodic headache syndromes in child or adult, intractable",G43.C1,ICD10CM,Pain
+45600787,Abdominal migraine,G43.D,ICD10CM,Pain
+45552530,"Abdominal migraine, not intractable",G43.D0,ICD10CM,Pain
+45533140,"Abdominal migraine, intractable",G43.D1,ICD10CM,Pain
+45755406,Other headache syndromes,G44,ICD10,Pain
+1568345,Other headache syndromes,G44,ICD10CM,Pain
+45533141,Cluster headache syndrome,G44.0,ICD10,Pain
+1568346,Cluster headaches and other trigeminal autonomic cephalgias (TAC),G44.0,ICD10CM,Pain
+1568347,"Cluster headache syndrome, unspecified",G44.00,ICD10CM,Pain
+45566878,"Cluster headache syndrome, unspecified, intractable",G44.001,ICD10CM,Pain
+45605548,"Cluster headache syndrome, unspecified, not intractable",G44.009,ICD10CM,Pain
+45586293,Episodic cluster headache,G44.01,ICD10CM,Pain
+45605549,"Episodic cluster headache, intractable",G44.011,ICD10CM,Pain
+45533142,"Episodic cluster headache, not intractable",G44.019,ICD10CM,Pain
+45566879,Chronic cluster headache,G44.02,ICD10CM,Pain
+45605550,"Chronic cluster headache, intractable",G44.021,ICD10CM,Pain
+45571807,"Chronic cluster headache, not intractable",G44.029,ICD10CM,Pain
+1568348,Episodic paroxysmal hemicrania,G44.03,ICD10CM,Pain
+45591183,"Episodic paroxysmal hemicrania, intractable",G44.031,ICD10CM,Pain
+45600788,"Episodic paroxysmal hemicrania, not intractable",G44.039,ICD10CM,Pain
+45576580,Chronic paroxysmal hemicrania,G44.04,ICD10CM,Pain
+45605551,"Chronic paroxysmal hemicrania, intractable",G44.041,ICD10CM,Pain
+45547737,"Chronic paroxysmal hemicrania, not intractable",G44.049,ICD10CM,Pain
+1568349,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT),G44.05,ICD10CM,Pain
+45542888,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable",G44.051,ICD10CM,Pain
+45605552,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable",G44.059,ICD10CM,Pain
+1568350,Other trigeminal autonomic cephalgias (TAC),G44.09,ICD10CM,Pain
+45533143,"Other trigeminal autonomic cephalgias (TAC), intractable",G44.091,ICD10CM,Pain
+45576581,"Other trigeminal autonomic cephalgias (TAC), not intractable",G44.099,ICD10CM,Pain
+45571808,"Vascular headache, not elsewhere classified",G44.1,ICD10,Pain
+1568351,"Vascular headache, not elsewhere classified",G44.1,ICD10CM,Pain
+45581495,Tension-type headache,G44.2,ICD10,Pain
+1568352,Tension-type headache,G44.2,ICD10CM,Pain
+1568353,"Tension-type headache, unspecified",G44.20,ICD10CM,Pain
+45542889,"Tension-type headache, unspecified, intractable",G44.201,ICD10CM,Pain
+45547738,"Tension-type headache, unspecified, not intractable",G44.209,ICD10CM,Pain
+45547739,Episodic tension-type headache,G44.21,ICD10CM,Pain
+45566880,"Episodic tension-type headache, intractable",G44.211,ICD10CM,Pain
+45566881,"Episodic tension-type headache, not intractable",G44.219,ICD10CM,Pain
+45562091,Chronic tension-type headache,G44.22,ICD10CM,Pain
+45605553,"Chronic tension-type headache, intractable",G44.221,ICD10CM,Pain
+45542890,"Chronic tension-type headache, not intractable",G44.229,ICD10CM,Pain
+1568354,Post-traumatic headache,G44.3,ICD10CM,Pain
+45581496,Chronic post-traumatic headache,G44.3,ICD10,Pain
+1568355,"Post-traumatic headache, unspecified",G44.30,ICD10CM,Pain
+45576582,"Post-traumatic headache, unspecified, intractable",G44.301,ICD10CM,Pain
+45566882,"Post-traumatic headache, unspecified, not intractable",G44.309,ICD10CM,Pain
+1568356,Acute post-traumatic headache,G44.31,ICD10CM,Pain
+45538117,"Acute post-traumatic headache, intractable",G44.311,ICD10CM,Pain
+45605554,"Acute post-traumatic headache, not intractable",G44.319,ICD10CM,Pain
+45552532,Chronic post-traumatic headache,G44.32,ICD10CM,Pain
+45542891,"Chronic post-traumatic headache, intractable",G44.321,ICD10CM,Pain
+45538118,"Chronic post-traumatic headache, not intractable",G44.329,ICD10CM,Pain
+45595946,"Drug-induced headache, not elsewhere classified",G44.4,ICD10,Pain
+1568357,"Drug-induced headache, not elsewhere classified",G44.4,ICD10CM,Pain
+45538119,"Drug-induced headache, not elsewhere classified, not intractable",G44.40,ICD10CM,Pain
+45547740,"Drug-induced headache, not elsewhere classified, intractable",G44.41,ICD10CM,Pain
+1568358,Complicated headache syndromes,G44.5,ICD10CM,Pain
+45552533,Hemicrania continua,G44.51,ICD10CM,Pain
+45576583,New daily persistent headache (NDPH),G44.52,ICD10CM,Pain
+45586294,Primary thunderclap headache,G44.53,ICD10CM,Pain
+45600789,Other complicated headache syndrome,G44.59,ICD10CM,Pain
+45547741,Other specified headache syndromes,G44.8,ICD10,Pain
+1568359,Other specified headache syndromes,G44.8,ICD10CM,Pain
+45591184,Hypnic headache,G44.81,ICD10CM,Pain
+45586295,Headache associated with sexual activity,G44.82,ICD10CM,Pain
+45576584,Primary cough headache,G44.83,ICD10CM,Pain
+45600790,Primary exertional headache,G44.84,ICD10CM,Pain
+45576585,Primary stabbing headache,G44.85,ICD10CM,Pain
+766354,Cervicogenic headache,G44.86,ICD10CM,Pain
+45533144,Other headache syndrome,G44.89,ICD10CM,Pain
+45581502,Trigeminal neuralgia,G50.0,ICD10,Pain
+35207411,Trigeminal neuralgia,G50.0,ICD10CM,Pain
+45542894,Atypical facial pain,G50.1,ICD10,Pain
+35207412,Atypical facial pain,G50.1,ICD10CM,Pain
+45547747,Postzoster neuralgia,G53.0,ICD10,Pain
+45571818,Causalgia,G56.4,ICD10,Pain
+1568379,Causalgia of upper limb,G56.4,ICD10CM,Pain
+45557245,Causalgia of unspecified upper limb,G56.40,ICD10CM,Pain
+45576598,Causalgia of right upper limb,G56.41,ICD10CM,Pain
+45533154,Causalgia of left upper limb,G56.42,ICD10CM,Pain
+37200336,Causalgia of bilateral upper limbs,G56.43,ICD10CM,Pain
+1568384,Meralgia paresthetica,G57.1,ICD10CM,Pain
+45547753,Meralgia paraesthetica,G57.1,ICD10,Pain
+45542897,"Meralgia paresthetica, unspecified lower limb",G57.10,ICD10CM,Pain
+45547754,"Meralgia paresthetica, right lower limb",G57.11,ICD10CM,Pain
+45581507,"Meralgia paresthetica, left lower limb",G57.12,ICD10CM,Pain
+37200340,"Meralgia paresthetica, bilateral lower limbs",G57.13,ICD10CM,Pain
+1568390,Causalgia of lower limb,G57.7,ICD10CM,Pain
+45605568,Causalgia of unspecified lower limb,G57.70,ICD10CM,Pain
+45591191,Causalgia of right lower limb,G57.71,ICD10CM,Pain
+45595953,Causalgia of left lower limb,G57.72,ICD10CM,Pain
+37200346,Causalgia of bilateral lower limbs,G57.73,ICD10CM,Pain
+1568420,"Pain, not elsewhere classified",G89,ICD10CM,Pain
+45566906,Central pain syndrome,G89.0,ICD10CM,Pain
+1568421,"Acute pain, not elsewhere classified",G89.1,ICD10CM,Pain
+45542911,Acute pain due to trauma,G89.11,ICD10CM,Pain
+45552551,Acute post-thoracotomy pain,G89.12,ICD10CM,Pain
+45538143,Other acute postprocedural pain,G89.18,ICD10CM,Pain
+1568422,"Chronic pain, not elsewhere classified",G89.2,ICD10CM,Pain
+45547763,Chronic pain due to trauma,G89.21,ICD10CM,Pain
+45566907,Chronic post-thoracotomy pain,G89.22,ICD10CM,Pain
+45581519,Other chronic postprocedural pain,G89.28,ICD10CM,Pain
+45542912,Other chronic pain,G89.29,ICD10CM,Pain
+45591201,Neoplasm related pain (acute) (chronic),G89.3,ICD10CM,Pain
+45562109,Chronic pain syndrome,G89.4,ICD10CM,Pain
+710654,Complex regional pain syndrome type I,G90.5,ICD10,Pain
+1568425,Complex regional pain syndrome I (CRPS I),G90.5,ICD10CM,Pain
+45562110,"Complex regional pain syndrome I, unspecified",G90.50,ICD10CM,Pain
+1568426,Complex regional pain syndrome I of upper limb,G90.51,ICD10CM,Pain
+45591202,Complex regional pain syndrome I of right upper limb,G90.511,ICD10CM,Pain
+45538144,Complex regional pain syndrome I of left upper limb,G90.512,ICD10CM,Pain
+45552552,"Complex regional pain syndrome I of upper limb, bilateral",G90.513,ICD10CM,Pain
+45547764,Complex regional pain syndrome I of unspecified upper limb,G90.519,ICD10CM,Pain
+1568427,Complex regional pain syndrome I of lower limb,G90.52,ICD10CM,Pain
+45566909,Complex regional pain syndrome I of right lower limb,G90.521,ICD10CM,Pain
+45542913,Complex regional pain syndrome I of left lower limb,G90.522,ICD10CM,Pain
+45586319,"Complex regional pain syndrome I of lower limb, bilateral",G90.523,ICD10CM,Pain
+45581523,Complex regional pain syndrome I of unspecified lower limb,G90.529,ICD10CM,Pain
+45571834,Complex regional pain syndrome I of other specified site,G90.59,ICD10CM,Pain
+710655,Complex regional pain syndrome type II,G90.6,ICD10,Pain
+710656,"Complex regional pain syndrome, other and unspecified type",G90.7,ICD10,Pain
+45562284,Glare sensitivity,H53.71,ICD10CM,Pain
+45596140,Ocular pain,H57.1,ICD10,Pain
+1568917,Ocular pain,H57.1,ICD10CM,Pain
+45543090,"Ocular pain, unspecified eye",H57.10,ICD10CM,Pain
+45543091,"Ocular pain, right eye",H57.11,ICD10CM,Pain
+45567104,"Ocular pain, left eye",H57.12,ICD10CM,Pain
+45557479,"Ocular pain, bilateral",H57.13,ICD10CM,Pain
+1569083,Otalgia,H92.0,ICD10CM,Pain
+45596177,Otalgia,H92.0,ICD10,Pain
+45572069,"Otalgia, right ear",H92.01,ICD10CM,Pain
+45586557,"Otalgia, left ear",H92.02,ICD10CM,Pain
+45586558,"Otalgia, bilateral",H92.03,ICD10CM,Pain
+45552764,"Otalgia, unspecified ear",H92.09,ICD10CM,Pain
+45538444,Erythromelalgia,I73.81,ICD10CM,Pain
+1569397,Varicose veins of lower extremities with pain,I83.81,ICD10CM,Pain
+45605863,Varicose veins of right lower extremity with pain,I83.811,ICD10CM,Pain
+45543240,Varicose veins of left lower extremity with pain,I83.812,ICD10CM,Pain
+45605864,Varicose veins of bilateral lower extremities with pain,I83.813,ICD10CM,Pain
+45552858,Varicose veins of unspecified lower extremity with pain,I83.819,ICD10CM,Pain
+45596306,Glossodynia,K14.6,ICD10,Pain
+35208185,Glossodynia,K14.6,ICD10CM,Pain
+45586941,Pain in joint,M25.5,ICD10,Pain
+1570565,Pain in joint,M25.5,ICD10CM,Pain
+42617250,"Pain in joint, multiple sites",M25.50,ICD10,Pain
+45577227,Pain in unspecified joint,M25.50,ICD10CM,Pain
+42617251,"Pain in joint, shoulder region",M25.51,ICD10,Pain
+1570566,Pain in shoulder,M25.51,ICD10CM,Pain
+45591807,Pain in right shoulder,M25.511,ICD10CM,Pain
+45591808,Pain in left shoulder,M25.512,ICD10CM,Pain
+45606200,Pain in unspecified shoulder,M25.519,ICD10CM,Pain
+45591809,Pain in elbow,M25.52,ICD10CM,Pain
+42617252,"Pain in joint, upper arm",M25.52,ICD10,Pain
+45601423,Pain in right elbow,M25.521,ICD10CM,Pain
+45553157,Pain in left elbow,M25.522,ICD10CM,Pain
+45606201,Pain in unspecified elbow,M25.529,ICD10CM,Pain
+45606202,Pain in wrist,M25.53,ICD10CM,Pain
+42617253,"Pain in joint, forearm",M25.53,ICD10,Pain
+45557855,Pain in right wrist,M25.531,ICD10CM,Pain
+45553158,Pain in left wrist,M25.532,ICD10CM,Pain
+45557856,Pain in unspecified wrist,M25.539,ICD10CM,Pain
+42617254,"Pain in joint, hand",M25.54,ICD10,Pain
+37200700,Pain in joints of hand,M25.54,ICD10CM,Pain
+37200701,Pain in joints of right hand,M25.541,ICD10CM,Pain
+37200702,Pain in joints of left hand,M25.542,ICD10CM,Pain
+37200703,Pain in joints of unspecified hand,M25.549,ICD10CM,Pain
+42617255,"Pain in joint, pelvic region and thigh",M25.55,ICD10,Pain
+1570567,Pain in hip,M25.55,ICD10CM,Pain
+45562699,Pain in right hip,M25.551,ICD10CM,Pain
+45572430,Pain in left hip,M25.552,ICD10CM,Pain
+45577228,Pain in unspecified hip,M25.559,ICD10CM,Pain
+1570568,Pain in knee,M25.56,ICD10CM,Pain
+42617256,"Pain in joint, lower leg",M25.56,ICD10,Pain
+45596549,Pain in right knee,M25.561,ICD10CM,Pain
+45533816,Pain in left knee,M25.562,ICD10CM,Pain
+45548395,Pain in unspecified knee,M25.569,ICD10CM,Pain
+42617257,"Pain in joint, ankle and foot",M25.57,ICD10,Pain
+1570569,Pain in ankle and joints of foot,M25.57,ICD10CM,Pain
+45538740,Pain in right ankle and joints of right foot,M25.571,ICD10CM,Pain
+45582116,Pain in left ankle and joints of left foot,M25.572,ICD10CM,Pain
+45572431,Pain in unspecified ankle and joints of unspecified foot,M25.579,ICD10CM,Pain
+42619348,"Pain in joint, other",M25.58,ICD10,Pain
+725389,Pain in other specified joint,M25.59,ICD10CM,Pain
+42617258,"Pain in joint, site unspecified",M25.59,ICD10,Pain
+45586953,Arthralgia of temporomandibular joint,M26.62,ICD10CM,Pain
+37200712,Arthralgia of right temporomandibular joint,M26.621,ICD10CM,Pain
+37200713,Arthralgia of left temporomandibular joint,M26.622,ICD10CM,Pain
+37200714,Arthralgia of bilateral temporomandibular joint,M26.623,ICD10CM,Pain
+37200715,"Arthralgia of temporomandibular joint, unspecified side",M26.629,ICD10CM,Pain
+1326708,"Spinal stenosis, lumbar region with neurogenic claudication",M48.062,ICD10CM,Pain
+1570701,Dorsalgia,M54,ICD10CM,Pain
+45553203,Dorsalgia,M54,ICD10,Pain
+1570702,Panniculitis affecting regions of neck and back,M54.0,ICD10CM,Pain
+45601479,"Panniculitis affecting regions of neck and back, site unspecified",M54.00,ICD10CM,Pain
+45586993,"Panniculitis affecting regions, neck and back, multiple sites in spine",M54.09,ICD10CM,Pain
+35208968,Cervicalgia,M54.2,ICD10CM,Pain
+45591867,Cervicalgia,M54.2,ICD10,Pain
+45586994,Sciatica,M54.3,ICD10,Pain
+1570704,Sciatica,M54.3,ICD10CM,Pain
+45553204,"Sciatica, unspecified side",M54.30,ICD10CM,Pain
+45596595,"Sciatica, right side",M54.31,ICD10CM,Pain
+45548443,"Sciatica, left side",M54.32,ICD10CM,Pain
+45553205,Lumbago with sciatica,M54.4,ICD10,Pain
+1570705,Lumbago with sciatica,M54.4,ICD10CM,Pain
+45567580,"Lumbago with sciatica, unspecified side",M54.40,ICD10CM,Pain
+45543613,"Lumbago with sciatica, right side",M54.41,ICD10CM,Pain
+45553206,"Lumbago with sciatica, left side",M54.42,ICD10CM,Pain
+45553207,Low back pain,M54.5,ICD10,Pain
+35208969,Low back pain,M54.5,ICD10CM,Pain
+766412,"Low back pain, unspecified",M54.50,ICD10CM,Pain
+766413,Vertebrogenic low back pain,M54.51,ICD10CM,Pain
+766414,Other low back pain,M54.59,ICD10CM,Pain
+35208970,Pain in thoracic spine,M54.6,ICD10CM,Pain
+45606247,Pain in thoracic spine,M54.6,ICD10,Pain
+1570706,Other dorsalgia,M54.8,ICD10CM,Pain
+45538790,Other dorsalgia,M54.8,ICD10,Pain
+42617896,"Other dorsalgia, multiple sites in spine",M54.80,ICD10,Pain
+42617897,"Other dorsalgia, occipito-atlanto-axial region",M54.81,ICD10,Pain
+45548444,Occipital neuralgia,M54.81,ICD10CM,Pain
+42617898,"Other dorsalgia, cervical region",M54.82,ICD10,Pain
+42617899,"Other dorsalgia, cervicothoracic region",M54.83,ICD10,Pain
+42617900,"Other dorsalgia, thoracic region",M54.84,ICD10,Pain
+42617901,"Other dorsalgia, thoracolumbar region",M54.85,ICD10,Pain
+42617902,"Other dorsalgia, lumbar region",M54.86,ICD10,Pain
+42617903,"Other dorsalgia, lumbosacral region",M54.87,ICD10,Pain
+42617904,"Other dorsalgia, sacral and sacrococcygeal region",M54.88,ICD10,Pain
+42617905,"Other dorsalgia, site unspecified",M54.89,ICD10,Pain
+45557903,Other dorsalgia,M54.89,ICD10CM,Pain
+35208971,"Dorsalgia, unspecified",M54.9,ICD10CM,Pain
+45538791,"Dorsalgia, unspecified",M54.9,ICD10,Pain
+42617906,"Dorsalgia, unspecified, multiple sites in spine",M54.90,ICD10,Pain
+42617907,"Dorsalgia, unspecified, occipito-atlanto-axial region",M54.91,ICD10,Pain
+42617908,"Dorsalgia, unspecified, cervical region",M54.92,ICD10,Pain
+42617909,"Dorsalgia, unspecified, cervicothoracic region",M54.93,ICD10,Pain
+42617910,"Dorsalgia, unspecified, thoracic region",M54.94,ICD10,Pain
+42617911,"Dorsalgia, unspecified, thoracolumbar region",M54.95,ICD10,Pain
+42617912,"Dorsalgia, unspecified, lumbar region",M54.96,ICD10,Pain
+42617913,"Dorsalgia, unspecified, lumbosacral region",M54.97,ICD10,Pain
+42617914,"Dorsalgia, unspecified, sacral and sacrococcygeal region",M54.98,ICD10,Pain
+42617915,"Dorsalgia, unspecified, site unspecified",M54.99,ICD10,Pain
+1570963,Trochanteric bursitis,M70.6,ICD10CM,Pain
+45606304,Trochanteric bursitis,M70.6,ICD10,Pain
+45543668,"Trochanteric bursitis, unspecified hip",M70.60,ICD10CM,Pain
+45567633,"Trochanteric bursitis, right hip",M70.61,ICD10CM,Pain
+45557963,"Trochanteric bursitis, left hip",M70.62,ICD10CM,Pain
+45601544,Metatarsalgia,M77.4,ICD10,Pain
+1571055,Metatarsalgia,M77.4,ICD10CM,Pain
+45577352,"Metatarsalgia, unspecified foot",M77.40,ICD10CM,Pain
+45577353,"Metatarsalgia, right foot",M77.41,ICD10CM,Pain
+45596685,"Metatarsalgia, left foot",M77.42,ICD10CM,Pain
+35209007,"Neuralgia and neuritis, unspecified",M79.2,ICD10CM,Pain
+45548502,"Neuralgia and neuritis, unspecified",M79.2,ICD10,Pain
+42618452,"Neuralgia and neuritis, unspecified, shoulder region",M79.21,ICD10,Pain
+42618453,"Neuralgia and neuritis, unspecified, upper arm",M79.22,ICD10,Pain
+42618457,"Neuralgia and neuritis, unspecified, lower leg",M79.26,ICD10,Pain
+42618458,"Neuralgia and neuritis, unspecified, ankle and foot",M79.27,ICD10,Pain
+42618459,"Neuralgia and neuritis, unspecified, other",M79.28,ICD10,Pain
+42618460,"Neuralgia and neuritis, unspecified, site unspecified",M79.29,ICD10,Pain
+45587063,Pain in limb,M79.6,ICD10,Pain
+1571058,"Pain in limb, hand, foot, fingers and toes",M79.6,ICD10CM,Pain
+42618481,"Pain in limb, multiple sites",M79.60,ICD10,Pain
+1571059,"Pain in limb, unspecified",M79.60,ICD10CM,Pain
+45557992,Pain in right arm,M79.601,ICD10CM,Pain
+45562837,Pain in left arm,M79.602,ICD10CM,Pain
+45587064,"Pain in arm, unspecified",M79.603,ICD10CM,Pain
+45533939,Pain in right leg,M79.604,ICD10CM,Pain
+45582247,Pain in left leg,M79.605,ICD10CM,Pain
+45543689,"Pain in leg, unspecified",M79.606,ICD10CM,Pain
+45562838,Pain in unspecified limb,M79.609,ICD10CM,Pain
+42618482,"Pain in limb, shoulder region",M79.61,ICD10,Pain
+1571060,Pain in upper arm,M79.62,ICD10CM,Pain
+42618483,"Pain in limb, upper arm",M79.62,ICD10,Pain
+45562839,Pain in right upper arm,M79.621,ICD10CM,Pain
+45582248,Pain in left upper arm,M79.622,ICD10CM,Pain
+45553271,Pain in unspecified upper arm,M79.629,ICD10CM,Pain
+45567659,Pain in forearm,M79.63,ICD10CM,Pain
+42618484,"Pain in limb, forearm",M79.63,ICD10,Pain
+45543690,Pain in right forearm,M79.631,ICD10CM,Pain
+45533940,Pain in left forearm,M79.632,ICD10CM,Pain
+45577358,Pain in unspecified forearm,M79.639,ICD10CM,Pain
+42618485,"Pain in limb, hand",M79.64,ICD10,Pain
+1571061,Pain in hand and fingers,M79.64,ICD10CM,Pain
+45582249,Pain in right hand,M79.641,ICD10CM,Pain
+45582250,Pain in left hand,M79.642,ICD10CM,Pain
+45538866,Pain in unspecified hand,M79.643,ICD10CM,Pain
+45538867,Pain in right finger(s),M79.644,ICD10CM,Pain
+45606323,Pain in left finger(s),M79.645,ICD10CM,Pain
+45591934,Pain in unspecified finger(s),M79.646,ICD10CM,Pain
+1571062,Pain in thigh,M79.65,ICD10CM,Pain
+42618486,"Pain in limb, pelvic region and thigh",M79.65,ICD10,Pain
+45591935,Pain in right thigh,M79.651,ICD10CM,Pain
+45587065,Pain in left thigh,M79.652,ICD10CM,Pain
+45601545,Pain in unspecified thigh,M79.659,ICD10CM,Pain
+1571063,Pain in lower leg,M79.66,ICD10CM,Pain
+42618487,"Pain in limb, lower leg",M79.66,ICD10,Pain
+45587066,Pain in right lower leg,M79.661,ICD10CM,Pain
+45572552,Pain in left lower leg,M79.662,ICD10CM,Pain
+45587067,Pain in unspecified lower leg,M79.669,ICD10CM,Pain
+42618488,"Pain in limb, ankle and foot",M79.67,ICD10,Pain
+1571064,Pain in foot and toes,M79.67,ICD10CM,Pain
+45562840,Pain in right foot,M79.671,ICD10CM,Pain
+45538868,Pain in left foot,M79.672,ICD10CM,Pain
+45557993,Pain in unspecified foot,M79.673,ICD10CM,Pain
+45601546,Pain in right toe(s),M79.674,ICD10CM,Pain
+45591936,Pain in left toe(s),M79.675,ICD10CM,Pain
+45533941,Pain in unspecified toe(s),M79.676,ICD10CM,Pain
+42618489,"Pain in limb, other",M79.68,ICD10,Pain
+42618490,"Pain in limb, site unspecified",M79.69,ICD10,Pain
+45548604,Algoneurodystrophy,M89.0,ICD10,Pain
+1571296,Algoneurodystrophy,M89.0,ICD10CM,Pain
+45592067,"Algoneurodystrophy, unspecified site",M89.00,ICD10CM,Pain
+42619104,"Algoneurodystrophy, multiple sites",M89.00,ICD10,Pain
+1571297,"Algoneurodystrophy, shoulder",M89.01,ICD10CM,Pain
+42619105,"Algoneurodystrophy, shoulder region",M89.01,ICD10,Pain
+45543801,"Algoneurodystrophy, right shoulder",M89.011,ICD10CM,Pain
+45596802,"Algoneurodystrophy, left shoulder",M89.012,ICD10CM,Pain
+45601670,"Algoneurodystrophy, unspecified shoulder",M89.019,ICD10CM,Pain
+1571298,"Algoneurodystrophy, upper arm",M89.02,ICD10CM,Pain
+42619106,"Algoneurodystrophy, upper arm",M89.02,ICD10,Pain
+45534064,"Algoneurodystrophy, right upper arm",M89.021,ICD10CM,Pain
+45567782,"Algoneurodystrophy, left upper arm",M89.022,ICD10CM,Pain
+45601671,"Algoneurodystrophy, unspecified upper arm",M89.029,ICD10CM,Pain
+1571299,"Algoneurodystrophy, forearm",M89.03,ICD10CM,Pain
+42619107,"Algoneurodystrophy, forearm",M89.03,ICD10,Pain
+45538985,"Algoneurodystrophy, right forearm",M89.031,ICD10CM,Pain
+45582342,"Algoneurodystrophy, left forearm",M89.032,ICD10CM,Pain
+45553392,"Algoneurodystrophy, unspecified forearm",M89.039,ICD10CM,Pain
+42619108,"Algoneurodystrophy, hand",M89.04,ICD10,Pain
+1571300,"Algoneurodystrophy, hand",M89.04,ICD10CM,Pain
+45587193,"Algoneurodystrophy, right hand",M89.041,ICD10CM,Pain
+45567783,"Algoneurodystrophy, left hand",M89.042,ICD10CM,Pain
+45592068,"Algoneurodystrophy, unspecified hand",M89.049,ICD10CM,Pain
+42619109,"Algoneurodystrophy, pelvic region and thigh",M89.05,ICD10,Pain
+1571301,"Algoneurodystrophy, thigh",M89.05,ICD10CM,Pain
+45601672,"Algoneurodystrophy, right thigh",M89.051,ICD10CM,Pain
+45538986,"Algoneurodystrophy, left thigh",M89.052,ICD10CM,Pain
+45596803,"Algoneurodystrophy, unspecified thigh",M89.059,ICD10CM,Pain
+42619110,"Algoneurodystrophy, lower leg",M89.06,ICD10,Pain
+1571302,"Algoneurodystrophy, lower leg",M89.06,ICD10CM,Pain
+45572657,"Algoneurodystrophy, right lower leg",M89.061,ICD10CM,Pain
+45562961,"Algoneurodystrophy, left lower leg",M89.062,ICD10CM,Pain
+45553393,"Algoneurodystrophy, unspecified lower leg",M89.069,ICD10CM,Pain
+42619111,"Algoneurodystrophy, ankle and foot",M89.07,ICD10,Pain
+1571303,"Algoneurodystrophy, ankle and foot",M89.07,ICD10CM,Pain
+45567784,"Algoneurodystrophy, right ankle and foot",M89.071,ICD10CM,Pain
+45582343,"Algoneurodystrophy, left ankle and foot",M89.072,ICD10CM,Pain
+45582344,"Algoneurodystrophy, unspecified ankle and foot",M89.079,ICD10CM,Pain
+42619112,"Algoneurodystrophy, other",M89.08,ICD10,Pain
+45592069,"Algoneurodystrophy, other site",M89.08,ICD10CM,Pain
+45548605,"Algoneurodystrophy, multiple sites",M89.09,ICD10CM,Pain
+42619113,"Algoneurodystrophy, site unspecified",M89.09,ICD10,Pain
+45596859,Unspecified renal colic,N23,ICD10,Pain
+35209290,Unspecified renal colic,N23,ICD10CM,Pain
+45577528,Prostatodynia syndrome,N42.81,ICD10CM,Pain
+37200883,Testicular pain,N50.81,ICD10CM,Pain
+37200884,Right testicular pain,N50.811,ICD10CM,Pain
+37200885,Left testicular pain,N50.812,ICD10CM,Pain
+37200886,"Testicular pain, unspecified",N50.819,ICD10CM,Pain
+37200887,Scrotal pain,N50.82,ICD10CM,Pain
+45587249,Painful ejaculation,N53.12,ICD10CM,Pain
+35209362,Mastodynia,N64.4,ICD10CM,Pain
+45539060,Mastodynia,N64.4,ICD10,Pain
+35209486,Primary dysmenorrhea,N94.4,ICD10CM,Pain
+45606521,Primary dysmenorrhoea,N94.4,ICD10,Pain
+35209487,Secondary dysmenorrhea,N94.5,ICD10CM,Pain
+45601760,Secondary dysmenorrhoea,N94.5,ICD10,Pain
+45606522,"Dysmenorrhoea, unspecified",N94.6,ICD10,Pain
+35209488,"Dysmenorrhea, unspecified",N94.6,ICD10CM,Pain
+45577545,Vulvodynia,N94.81,ICD10CM,Pain
+45592160,Other vulvodynia,N94.818,ICD10CM,Pain
+45601761,"Vulvodynia, unspecified",N94.819,ICD10CM,Pain
+45577780,Abdominal and pelvic pain,R10,ICD10,Pain
+1572198,Abdominal and pelvic pain,R10,ICD10CM,Pain
+1572199,Pain localized to upper abdomen,R10.1,ICD10CM,Pain
+45568111,Pain localized to upper abdomen,R10.1,ICD10,Pain
+45577781,"Upper abdominal pain, unspecified",R10.10,ICD10CM,Pain
+45568112,Right upper quadrant pain,R10.11,ICD10CM,Pain
+45597168,Left upper quadrant pain,R10.12,ICD10CM,Pain
+45558454,Epigastric pain,R10.13,ICD10CM,Pain
+35211290,Pelvic and perineal pain,R10.2,ICD10CM,Pain
+45548947,Pelvic and perineal pain,R10.2,ICD10,Pain
+45534426,Pain localized to other parts of lower abdomen,R10.3,ICD10,Pain
+1572200,Pain localized to other parts of lower abdomen,R10.3,ICD10CM,Pain
+45563290,"Lower abdominal pain, unspecified",R10.30,ICD10CM,Pain
+45582694,Right lower quadrant pain,R10.31,ICD10CM,Pain
+45553715,Left lower quadrant pain,R10.32,ICD10CM,Pain
+45592407,Periumbilical pain,R10.33,ICD10CM,Pain
+45568113,Other and unspecified abdominal pain,R10.4,ICD10,Pain
+1572201,Other abdominal pain,R10.8,ICD10CM,Pain
+45602007,Colic,R10.83,ICD10CM,Pain
+45558455,Generalized abdominal pain,R10.84,ICD10CM,Pain
+45568114,Unspecified abdominal pain,R10.9,ICD10CM,Pain
+35211292,Heartburn,R12,ICD10CM,Pain
+45539318,Heartburn,R12,ICD10,Pain
+45592410,Gas pain,R14.1,ICD10CM,Pain
+1572226,Pain associated with micturition,R30,ICD10CM,Pain
+45577789,Pain associated with micturition,R30,ICD10,Pain
+35211336,Dysuria,R30.0,ICD10CM,Pain
+45592416,Dysuria,R30.0,ICD10,Pain
+35211337,Vesical tenesmus,R30.1,ICD10CM,Pain
+45602017,Vesical tenesmus,R30.1,ICD10,Pain
+35211338,"Painful micturition, unspecified",R30.9,ICD10CM,Pain
+45577790,"Painful micturition, unspecified",R30.9,ICD10,Pain
+37201092,Chronic bladder pain,R39.82,ICD10CM,Pain
+35211388,Headache,R51,ICD10CM,Pain
+45558474,Headache,R51,ICD10,Pain
+725458,"Headache with orthostatic component, not elsewhere classified",R51.0,ICD10CM,Pain
+725459,"Headache, unspecified",R51.9,ICD10CM,Pain
+45548974,"Pain, not elsewhere classified",R52,ICD10,Pain
+35211389,"Pain, unspecified",R52,ICD10CM,Pain
+45573031,Acute pain,R52.0,ICD10,Pain
+45582717,Chronic intractable pain,R52.1,ICD10,Pain
+45568139,Other chronic pain,R52.2,ICD10,Pain
+45544151,"Pain, unspecified",R52.9,ICD10,Pain
+45577808,Jaw pain,R68.84,ICD10CM,Pain
+1572189,Hemorrhage from respiratory passages,R04,ICD10CM,RespiratorySymptoms
+45755626,Haemorrhage from respiratory passages,R04,ICD10,RespiratorySymptoms
+35211270,Epistaxis,R04.0,ICD10CM,RespiratorySymptoms
+45606791,Epistaxis,R04.0,ICD10,RespiratorySymptoms
+35211271,Hemorrhage from throat,R04.1,ICD10CM,RespiratorySymptoms
+45602000,Haemorrhage from throat,R04.1,ICD10,RespiratorySymptoms
+35211272,Hemoptysis,R04.2,ICD10CM,RespiratorySymptoms
+45577777,Haemoptysis,R04.2,ICD10,RespiratorySymptoms
+45553713,Haemorrhage from other sites in respiratory passages,R04.8,ICD10,RespiratorySymptoms
+35211273,Hemorrhage from other sites in respiratory passages,R04.8,ICD10CM,RespiratorySymptoms
+45558447,Acute idiopathic pulmonary hemorrhage in infants,R04.81,ICD10CM,RespiratorySymptoms
+45563287,Hemorrhage from other sites in respiratory passages,R04.89,ICD10CM,RespiratorySymptoms
+35211274,"Hemorrhage from respiratory passages, unspecified",R04.9,ICD10CM,RespiratorySymptoms
+45558448,"Haemorrhage from respiratory passages, unspecified",R04.9,ICD10,RespiratorySymptoms
+45582691,Abnormalities of breathing,R06,ICD10,RespiratorySymptoms
+1572190,Abnormalities of breathing,R06,ICD10CM,RespiratorySymptoms
+1572191,Dyspnea,R06.0,ICD10CM,RespiratorySymptoms
+45558449,Dyspnoea,R06.0,ICD10,RespiratorySymptoms
+45587496,"Dyspnea, unspecified",R06.00,ICD10CM,RespiratorySymptoms
+45597165,Orthopnea,R06.01,ICD10CM,RespiratorySymptoms
+45534422,Shortness of breath,R06.02,ICD10CM,RespiratorySymptoms
+1326788,Acute respiratory distress,R06.03,ICD10CM,RespiratorySymptoms
+45548944,Other forms of dyspnea,R06.09,ICD10CM,RespiratorySymptoms
+45548945,Stridor,R06.1,ICD10,RespiratorySymptoms
+35211276,Stridor,R06.1,ICD10CM,RespiratorySymptoms
+35211277,Wheezing,R06.2,ICD10CM,RespiratorySymptoms
+45548946,Wheezing,R06.2,ICD10,RespiratorySymptoms
+45544129,Periodic breathing,R06.3,ICD10,RespiratorySymptoms
+35211278,Periodic breathing,R06.3,ICD10CM,RespiratorySymptoms
+35211279,Hyperventilation,R06.4,ICD10CM,RespiratorySymptoms
+45573005,Hyperventilation,R06.4,ICD10,RespiratorySymptoms
+45573006,Mouth breathing,R06.5,ICD10,RespiratorySymptoms
+35211280,Mouth breathing,R06.5,ICD10CM,RespiratorySymptoms
+45582692,Hiccough,R06.6,ICD10,RespiratorySymptoms
+35211281,Hiccough,R06.6,ICD10CM,RespiratorySymptoms
+35211282,Sneezing,R06.7,ICD10CM,RespiratorySymptoms
+45582693,Sneezing,R06.7,ICD10,RespiratorySymptoms
+45534423,Other and unspecified abnormalities of breathing,R06.8,ICD10,RespiratorySymptoms
+1572192,Other abnormalities of breathing,R06.8,ICD10CM,RespiratorySymptoms
+45606793,"Apnea, not elsewhere classified",R06.81,ICD10CM,RespiratorySymptoms
+45539314,"Tachypnea, not elsewhere classified",R06.82,ICD10CM,RespiratorySymptoms
+45553714,Snoring,R06.83,ICD10CM,RespiratorySymptoms
+45577778,Other abnormalities of breathing,R06.89,ICD10CM,RespiratorySymptoms
+45563288,Unspecified abnormalities of breathing,R06.9,ICD10CM,RespiratorySymptoms
+1572195,Other symptoms and signs involving the circulatory and respiratory system,R09,ICD10CM,RespiratorySymptoms
+45755627,Other symptoms and signs involving the circulatory and respiratory systems,R09,ICD10,RespiratorySymptoms
+1572196,Asphyxia and hypoxemia,R09.0,ICD10CM,RespiratorySymptoms
+45539315,Asphyxia,R09.0,ICD10,RespiratorySymptoms
+45568110,Asphyxia,R09.01,ICD10CM,RespiratorySymptoms
+45573007,Hypoxemia,R09.02,ICD10CM,RespiratorySymptoms
+45539316,Pleurisy,R09.1,ICD10,RespiratorySymptoms
+35211286,Pleurisy,R09.1,ICD10CM,RespiratorySymptoms
+35211287,Respiratory arrest,R09.2,ICD10CM,RespiratorySymptoms
+45558451,Respiratory arrest,R09.2,ICD10,RespiratorySymptoms
+45558452,Abnormal sputum,R09.3,ICD10,RespiratorySymptoms
+35211288,Abnormal sputum,R09.3,ICD10CM,RespiratorySymptoms
+1572197,Other specified symptoms and signs involving the circulatory and respiratory systems,R09.8,ICD10CM,RespiratorySymptoms
+45573008,Other specified symptoms and signs involving the circulatory and respiratory systems,R09.8,ICD10,RespiratorySymptoms
+45602003,Nasal congestion,R09.81,ICD10CM,RespiratorySymptoms
+45606794,Postnasal drip,R09.82,ICD10CM,RespiratorySymptoms
+45558453,Other specified symptoms and signs involving the circulatory and respiratory systems,R09.89,ICD10CM,RespiratorySymptoms
+45562121,Xeroderma of eyelid,H01.14,ICD10CM,SkinSymptoms
+45547779,Xeroderma of right upper eyelid,H01.141,ICD10CM,SkinSymptoms
+45600818,Xeroderma of right lower eyelid,H01.142,ICD10CM,SkinSymptoms
+45595975,"Xeroderma of right eye, unspecified eyelid",H01.143,ICD10CM,SkinSymptoms
+45576621,Xeroderma of left upper eyelid,H01.144,ICD10CM,SkinSymptoms
+45566916,Xeroderma of left lower eyelid,H01.145,ICD10CM,SkinSymptoms
+45600819,"Xeroderma of left eye, unspecified eyelid",H01.146,ICD10CM,SkinSymptoms
+45581529,"Xeroderma of unspecified eye, unspecified eyelid",H01.149,ICD10CM,SkinSymptoms
+1568479,Vitiligo of eyelid and periocular area,H02.73,ICD10CM,SkinSymptoms
+45586344,Vitiligo of right upper eyelid and periocular area,H02.731,ICD10CM,SkinSymptoms
+45566930,Vitiligo of right lower eyelid and periocular area,H02.732,ICD10CM,SkinSymptoms
+45538173,"Vitiligo of right eye, unspecified eyelid and periocular area",H02.733,ICD10CM,SkinSymptoms
+45557286,Vitiligo of left upper eyelid and periocular area,H02.734,ICD10CM,SkinSymptoms
+45552568,Vitiligo of left lower eyelid and periocular area,H02.735,ICD10CM,SkinSymptoms
+45605586,"Vitiligo of left eye, unspecified eyelid and periocular area",H02.736,ICD10CM,SkinSymptoms
+45542944,"Vitiligo of unspecified eye, unspecified eyelid and periocular area",H02.739,ICD10CM,SkinSymptoms
+45581939,Exfoliative dermatitis,L26,ICD10,SkinSymptoms
+35208482,Exfoliative dermatitis,L26,ICD10CM,SkinSymptoms
+35208483,Generalized skin eruption due to drugs and medicaments taken internally,L27.0,ICD10CM,SkinSymptoms
+45538572,Generalized skin eruption due to drugs and medicaments,L27.0,ICD10,SkinSymptoms
+45533639,Localized skin eruption due to drugs and medicaments,L27.1,ICD10,SkinSymptoms
+35208484,Localized skin eruption due to drugs and medicaments taken internally,L27.1,ICD10CM,SkinSymptoms
+45577033,Prurigo nodularis,L28.1,ICD10,SkinSymptoms
+35208489,Prurigo nodularis,L28.1,ICD10CM,SkinSymptoms
+35208490,Other prurigo,L28.2,ICD10CM,SkinSymptoms
+45581940,Other prurigo,L28.2,ICD10,SkinSymptoms
+45596372,Pruritus,L29,ICD10,SkinSymptoms
+1569775,Pruritus,L29,ICD10CM,SkinSymptoms
+45601220,Other pruritus,L29.8,ICD10,SkinSymptoms
+35208495,Other pruritus,L29.8,ICD10CM,SkinSymptoms
+35208496,"Pruritus, unspecified",L29.9,ICD10CM,SkinSymptoms
+45548195,"Pruritus, unspecified",L29.9,ICD10,SkinSymptoms
+45562537,Lichen planus,L43,ICD10,SkinSymptoms
+1569780,Lichen planus,L43,ICD10CM,SkinSymptoms
+35208521,Hypertrophic lichen planus,L43.0,ICD10CM,SkinSymptoms
+45567357,Hypertrophic lichen planus,L43.0,ICD10,SkinSymptoms
+45552980,Bullous lichen planus,L43.1,ICD10,SkinSymptoms
+35208522,Bullous lichen planus,L43.1,ICD10CM,SkinSymptoms
+45596374,Lichenoid drug reaction,L43.2,ICD10,SkinSymptoms
+35208523,Lichenoid drug reaction,L43.2,ICD10CM,SkinSymptoms
+45586770,Subacute (active) lichen planus,L43.3,ICD10,SkinSymptoms
+35208524,Subacute (active) lichen planus,L43.3,ICD10CM,SkinSymptoms
+45577038,Other lichen planus,L43.8,ICD10,SkinSymptoms
+35208525,Other lichen planus,L43.8,ICD10CM,SkinSymptoms
+35208526,"Lichen planus, unspecified",L43.9,ICD10CM,SkinSymptoms
+45591635,"Lichen planus, unspecified",L43.9,ICD10,SkinSymptoms
+35208527,Pityriasis rubra pilaris,L44.0,ICD10CM,SkinSymptoms
+45601223,Pityriasis rubra pilaris,L44.0,ICD10,SkinSymptoms
+45577039,Lichen nitidus,L44.1,ICD10,SkinSymptoms
+35208528,Lichen nitidus,L44.1,ICD10CM,SkinSymptoms
+45605986,Lichen striatus,L44.2,ICD10,SkinSymptoms
+35208529,Lichen striatus,L44.2,ICD10CM,SkinSymptoms
+45552981,Lichen ruber moniliformis,L44.3,ICD10,SkinSymptoms
+35208530,Lichen ruber moniliformis,L44.3,ICD10CM,SkinSymptoms
+35208565,Polymorphous light eruption,L56.4,ICD10CM,SkinSymptoms
+45552991,Polymorphous light eruption,L56.4,ICD10,SkinSymptoms
+35208605,Lichen planopilaris,L66.1,ICD10CM,SkinSymptoms
+45538579,Lichen planopilaris,L66.1,ICD10,SkinSymptoms
+35208652,Apocrine miliaria,L75.2,ICD10CM,SkinSymptoms
+45543382,Apocrine miliaria,L75.2,ICD10,SkinSymptoms
+35208655,Vitiligo,L80,ICD10CM,SkinSymptoms
+45581962,Vitiligo,L80,ICD10,SkinSymptoms
+45562548,Other disorders of pigmentation,L81,ICD10,SkinSymptoms
+1569810,Other disorders of pigmentation,L81,ICD10CM,SkinSymptoms
+45562549,Postinflammatory hyperpigmentation,L81.0,ICD10,SkinSymptoms
+35208656,Postinflammatory hyperpigmentation,L81.0,ICD10CM,SkinSymptoms
+35208657,Chloasma,L81.1,ICD10CM,SkinSymptoms
+45567368,Chloasma,L81.1,ICD10,SkinSymptoms
+35208658,Freckles,L81.2,ICD10CM,SkinSymptoms
+45543383,Freckles,L81.2,ICD10,SkinSymptoms
+35208659,Cafe au lait spots,L81.3,ICD10CM,SkinSymptoms
+45605997,Café au lait spots,L81.3,ICD10,SkinSymptoms
+35208660,Other melanin hyperpigmentation,L81.4,ICD10CM,SkinSymptoms
+45538585,Other melanin hyperpigmentation,L81.4,ICD10,SkinSymptoms
+35208661,"Leukoderma, not elsewhere classified",L81.5,ICD10CM,SkinSymptoms
+45567369,"Leukoderma, not elsewhere classified",L81.5,ICD10,SkinSymptoms
+35208662,Other disorders of diminished melanin formation,L81.6,ICD10CM,SkinSymptoms
+45548207,Other disorders of diminished melanin formation,L81.6,ICD10,SkinSymptoms
+45605998,Pigmented purpuric dermatosis,L81.7,ICD10,SkinSymptoms
+35208663,Pigmented purpuric dermatosis,L81.7,ICD10CM,SkinSymptoms
+45596387,Other specified disorders of pigmentation,L81.8,ICD10,SkinSymptoms
+35208664,Other specified disorders of pigmentation,L81.8,ICD10CM,SkinSymptoms
+35208665,"Disorder of pigmentation, unspecified",L81.9,ICD10CM,SkinSymptoms
+45543384,"Disorder of pigmentation, unspecified",L81.9,ICD10,SkinSymptoms
+45548208,Seborrhoeic keratosis,L82,ICD10,SkinSymptoms
+1569811,Seborrheic keratosis,L82,ICD10CM,SkinSymptoms
+45538586,Inflamed seborrheic keratosis,L82.0,ICD10CM,SkinSymptoms
+45596388,Other seborrheic keratosis,L82.1,ICD10CM,SkinSymptoms
+45601233,Other epidermal thickening,L85,ICD10,SkinSymptoms
+1569812,Other epidermal thickening,L85,ICD10CM,SkinSymptoms
+35208668,Acquired ichthyosis,L85.0,ICD10CM,SkinSymptoms
+45572282,Acquired ichthyosis,L85.0,ICD10,SkinSymptoms
+35208669,Acquired keratosis [keratoderma] palmaris et plantaris,L85.1,ICD10CM,SkinSymptoms
+45591648,Acquired keratosis [keratoderma] palmaris et plantaris,L85.1,ICD10,SkinSymptoms
+45601234,Keratosis punctata (palmaris et plantaris),L85.2,ICD10,SkinSymptoms
+35208670,Keratosis punctata (palmaris et plantaris),L85.2,ICD10CM,SkinSymptoms
+45577054,Xerosis cutis,L85.3,ICD10,SkinSymptoms
+35208671,Xerosis cutis,L85.3,ICD10CM,SkinSymptoms
+45538587,Other specified epidermal thickening,L85.8,ICD10,SkinSymptoms
+35208672,Other specified epidermal thickening,L85.8,ICD10CM,SkinSymptoms
+45606000,"Epidermal thickening, unspecified",L85.9,ICD10,SkinSymptoms
+35208673,"Epidermal thickening, unspecified",L85.9,ICD10CM,SkinSymptoms
+35208674,Keratoderma in diseases classified elsewhere,L86,ICD10CM,SkinSymptoms
+45577055,Keratoderma in diseases classified elsewhere,L86,ICD10,SkinSymptoms
+1569813,Transepidermal elimination disorders,L87,ICD10CM,SkinSymptoms
+45606001,Transepidermal elimination disorders,L87,ICD10,SkinSymptoms
+35208675,Keratosis follicularis et parafollicularis in cutem penetrans,L87.0,ICD10CM,SkinSymptoms
+45557714,Keratosis follicularis et parafollicularis in cutem penetrans [Kyrle],L87.0,ICD10,SkinSymptoms
+45586782,Reactive perforating collagenosis,L87.1,ICD10,SkinSymptoms
+35208676,Reactive perforating collagenosis,L87.1,ICD10CM,SkinSymptoms
+35208677,Elastosis perforans serpiginosa,L87.2,ICD10CM,SkinSymptoms
+45557715,Elastosis perforans serpiginosa,L87.2,ICD10,SkinSymptoms
+35208678,Other transepidermal elimination disorders,L87.8,ICD10CM,SkinSymptoms
+45548209,Other transepidermal elimination disorders,L87.8,ICD10,SkinSymptoms
+45543385,"Transepidermal elimination disorder, unspecified",L87.9,ICD10,SkinSymptoms
+35208679,"Transepidermal elimination disorder, unspecified",L87.9,ICD10CM,SkinSymptoms
+35208680,Pyoderma gangrenosum,L88,ICD10CM,SkinSymptoms
+45538588,Pyoderma gangrenosum,L88,ICD10,SkinSymptoms
+1569843,Atrophic disorders of skin,L90,ICD10CM,SkinSymptoms
+45562559,Atrophic disorders of skin,L90,ICD10,SkinSymptoms
+45548221,Lichen sclerosus et atrophicus,L90.0,ICD10,SkinSymptoms
+35208681,Lichen sclerosus et atrophicus,L90.0,ICD10CM,SkinSymptoms
+35208682,Anetoderma of Schweninger-Buzzi,L90.1,ICD10CM,SkinSymptoms
+45586798,Anetoderma of Schweninger-Buzzi,L90.1,ICD10,SkinSymptoms
+45591655,Anetoderma of Jadassohn-Pellizzari,L90.2,ICD10,SkinSymptoms
+35208683,Anetoderma of Jadassohn-Pellizzari,L90.2,ICD10CM,SkinSymptoms
+35208684,Atrophoderma of Pasini and Pierini,L90.3,ICD10CM,SkinSymptoms
+45581972,Atrophoderma of Pasini and Pierini,L90.3,ICD10,SkinSymptoms
+45533661,Acrodermatitis chronica atrophicans,L90.4,ICD10,SkinSymptoms
+35208685,Acrodermatitis chronica atrophicans,L90.4,ICD10CM,SkinSymptoms
+45543397,Scar conditions and fibrosis of skin,L90.5,ICD10,SkinSymptoms
+35208686,Scar conditions and fibrosis of skin,L90.5,ICD10CM,SkinSymptoms
+45557724,Striae atrophicae,L90.6,ICD10,SkinSymptoms
+35208687,Striae atrophicae,L90.6,ICD10CM,SkinSymptoms
+35208688,Other atrophic disorders of skin,L90.8,ICD10CM,SkinSymptoms
+45538603,Other atrophic disorders of skin,L90.8,ICD10,SkinSymptoms
+35208689,"Atrophic disorder of skin, unspecified",L90.9,ICD10CM,SkinSymptoms
+45606012,"Atrophic disorder of skin, unspecified",L90.9,ICD10,SkinSymptoms
+45577067,Hypertrophic disorders of skin,L91,ICD10,SkinSymptoms
+1569844,Hypertrophic disorders of skin,L91,ICD10CM,SkinSymptoms
+45548222,Hypertrophic scar,L91.0,ICD10,SkinSymptoms
+35208690,Hypertrophic scar,L91.0,ICD10CM,SkinSymptoms
+35208691,Other hypertrophic disorders of the skin,L91.8,ICD10CM,SkinSymptoms
+45591656,Other hypertrophic disorders of skin,L91.8,ICD10,SkinSymptoms
+45586799,"Hypertrophic disorder of skin, unspecified",L91.9,ICD10,SkinSymptoms
+35208692,"Hypertrophic disorder of the skin, unspecified",L91.9,ICD10CM,SkinSymptoms
+45606013,Granulomatous disorders of skin and subcutaneous tissue,L92,ICD10,SkinSymptoms
+1569845,Granulomatous disorders of skin and subcutaneous tissue,L92,ICD10CM,SkinSymptoms
+35208693,Granuloma annulare,L92.0,ICD10CM,SkinSymptoms
+45543398,Granuloma annulare,L92.0,ICD10,SkinSymptoms
+45601248,"Necrobiosis lipoidica, not elsewhere classified",L92.1,ICD10,SkinSymptoms
+35208694,"Necrobiosis lipoidica, not elsewhere classified",L92.1,ICD10CM,SkinSymptoms
+45538604,Granuloma faciale [eosinophilic granuloma of skin],L92.2,ICD10,SkinSymptoms
+35208695,Granuloma faciale [eosinophilic granuloma of skin],L92.2,ICD10CM,SkinSymptoms
+45596396,Foreign body granuloma of skin and subcutaneous tissue,L92.3,ICD10,SkinSymptoms
+35208696,Foreign body granuloma of the skin and subcutaneous tissue,L92.3,ICD10CM,SkinSymptoms
+35208697,Other granulomatous disorders of the skin and subcutaneous tissue,L92.8,ICD10CM,SkinSymptoms
+45606014,Other granulomatous disorders of skin and subcutaneous tissue,L92.8,ICD10,SkinSymptoms
+45601249,"Granulomatous disorder of skin and subcutaneous tissue, unspecified",L92.9,ICD10,SkinSymptoms
+35208698,"Granulomatous disorder of the skin and subcutaneous tissue, unspecified",L92.9,ICD10CM,SkinSymptoms
+45543400,"Localized connective tissue disorder, unspecified",L94.9,ICD10,SkinSymptoms
+35208710,"Localized connective tissue disorder, unspecified",L94.9,ICD10CM,SkinSymptoms
+45601258,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",L98,ICD10,SkinSymptoms
+1569878,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",L98,ICD10CM,SkinSymptoms
+45606026,Pyogenic granuloma,L98.0,ICD10,SkinSymptoms
+35208715,Pyogenic granuloma,L98.0,ICD10CM,SkinSymptoms
+35208716,Factitial dermatitis,L98.1,ICD10CM,SkinSymptoms
+45553016,Factitial dermatitis,L98.1,ICD10,SkinSymptoms
+45553017,Mucinosis of skin,L98.5,ICD10,SkinSymptoms
+35208719,Mucinosis of the skin,L98.5,ICD10CM,SkinSymptoms
+35208720,Other infiltrative disorders of the skin and subcutaneous tissue,L98.6,ICD10CM,SkinSymptoms
+45557739,Other infiltrative disorders of skin and subcutaneous tissue,L98.6,ICD10,SkinSymptoms
+42616304,Excessive and redundant skin and subcutaneous tissue,L98.7,ICD10,SkinSymptoms
+37200686,Excessive and redundant skin and subcutaneous tissue,L98.7,ICD10CM,SkinSymptoms
+35208721,Other specified disorders of the skin and subcutaneous tissue,L98.8,ICD10CM,SkinSymptoms
+45606028,Other specified disorders of skin and subcutaneous tissue,L98.8,ICD10,SkinSymptoms
+35208722,"Disorder of the skin and subcutaneous tissue, unspecified",L98.9,ICD10CM,SkinSymptoms
+45562566,"Disorder of skin and subcutaneous tissue, unspecified",L98.9,ICD10,SkinSymptoms
+45567383,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,L99,ICD10,SkinSymptoms
+35208723,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,L99,ICD10CM,SkinSymptoms
+45567384,Amyloidosis of skin,L99.0,ICD10,SkinSymptoms
+45543412,Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere,L99.8,ICD10,SkinSymptoms
+45553721,Rash and other nonspecific skin eruption,R21,ICD10,SkinSymptoms
+35211309,Rash and other nonspecific skin eruption,R21,ICD10CM,SkinSymptoms
+1572213,"Localized swelling, mass and lump of skin and subcutaneous tissue",R22,ICD10CM,SkinSymptoms
+45573018,"Localized swelling, mass and lump of skin and subcutaneous tissue",R22,ICD10,SkinSymptoms
+45548955,"Localized swelling, mass and lump, head",R22.0,ICD10,SkinSymptoms
+35211310,"Localized swelling, mass and lump, head",R22.0,ICD10CM,SkinSymptoms
+45592412,"Localized swelling, mass and lump, neck",R22.1,ICD10,SkinSymptoms
+35211311,"Localized swelling, mass and lump, neck",R22.1,ICD10CM,SkinSymptoms
+45602014,"Localized swelling, mass and lump, trunk",R22.2,ICD10,SkinSymptoms
+35211312,"Localized swelling, mass and lump, trunk",R22.2,ICD10CM,SkinSymptoms
+1572214,"Localized swelling, mass and lump, upper limb",R22.3,ICD10CM,SkinSymptoms
+45548956,"Localized swelling, mass and lump, upper limb",R22.3,ICD10,SkinSymptoms
+45544135,"Localized swelling, mass and lump, unspecified upper limb",R22.30,ICD10CM,SkinSymptoms
+45539324,"Localized swelling, mass and lump, right upper limb",R22.31,ICD10CM,SkinSymptoms
+45553722,"Localized swelling, mass and lump, left upper limb",R22.32,ICD10CM,SkinSymptoms
+45568121,"Localized swelling, mass and lump, upper limb, bilateral",R22.33,ICD10CM,SkinSymptoms
+45597173,"Localized swelling, mass and lump, lower limb",R22.4,ICD10,SkinSymptoms
+1572215,"Localized swelling, mass and lump, lower limb",R22.4,ICD10CM,SkinSymptoms
+45573019,"Localized swelling, mass and lump, unspecified lower limb",R22.40,ICD10CM,SkinSymptoms
+45592413,"Localized swelling, mass and lump, right lower limb",R22.41,ICD10CM,SkinSymptoms
+45548957,"Localized swelling, mass and lump, left lower limb",R22.42,ICD10CM,SkinSymptoms
+45548958,"Localized swelling, mass and lump, lower limb, bilateral",R22.43,ICD10CM,SkinSymptoms
+45539325,"Localized swelling, mass and lump, multiple sites",R22.7,ICD10,SkinSymptoms
+45577788,"Localized swelling, mass and lump, unspecified",R22.9,ICD10,SkinSymptoms
+35211313,"Localized swelling, mass and lump, unspecified",R22.9,ICD10CM,SkinSymptoms
+45568122,Other skin changes,R23,ICD10,SkinSymptoms
+1572216,Other skin changes,R23,ICD10CM,SkinSymptoms
+35211314,Cyanosis,R23.0,ICD10CM,SkinSymptoms
+45553723,Cyanosis,R23.0,ICD10,SkinSymptoms
+45544136,Pallor,R23.1,ICD10,SkinSymptoms
+35211315,Pallor,R23.1,ICD10CM,SkinSymptoms
+35211316,Flushing,R23.2,ICD10CM,SkinSymptoms
+45568123,Flushing,R23.2,ICD10,SkinSymptoms
+35211317,Spontaneous ecchymoses,R23.3,ICD10CM,SkinSymptoms
+45539326,Spontaneous ecchymoses,R23.3,ICD10,SkinSymptoms
+45563295,Changes in skin texture,R23.4,ICD10,SkinSymptoms
+35211318,Changes in skin texture,R23.4,ICD10CM,SkinSymptoms
+45573020,Other and unspecified skin changes,R23.8,ICD10,SkinSymptoms
+35211319,Other skin changes,R23.8,ICD10CM,SkinSymptoms
+45606800,Unspecified skin changes,R23.9,ICD10CM,SkinSymptoms
+19160,Chilblains,T69.1,ICD10CM,SkinSymptoms
+45551429,"Chilblains, initial encounter",T69.1XXA,ICD10CM,SkinSymptoms
+45536984,"Chilblains, subsequent encounter",T69.1XXD,ICD10CM,SkinSymptoms
+45599694,"Chilblains, sequela",T69.1XXS,ICD10CM,SkinSymptoms
+45605450,Mild cognitive disorder,F06.7,ICD10,CognitiveImpairments
+37402458,Mild neurocognitive disorder due to known physiological condition,F06.7,ICD10CM,CognitiveImpairments
+37402459,Mild neurocognitive disorder due to known physiological condition without behavioral disturbance,F06.70,ICD10CM,CognitiveImpairments
+37402460,Mild neurocognitive disorder due to known physiological condition with behavioral disturbance,F06.71,ICD10CM,CognitiveImpairments
+1568263,Attention-deficit hyperactivity disorders,F90,ICD10CM,CognitiveImpairments
+45581476,Hyperkinetic disorders,F90,ICD10,CognitiveImpairments
+45542870,Disturbance of activity and attention,F90.0,ICD10,CognitiveImpairments
+35207262,"Attention-deficit hyperactivity disorder, predominantly inattentive type",F90.0,ICD10CM,CognitiveImpairments
+45605518,Hyperkinetic conduct disorder,F90.1,ICD10,CognitiveImpairments
+35207263,"Attention-deficit hyperactivity disorder, predominantly hyperactive type",F90.1,ICD10CM,CognitiveImpairments
+45552506,"Attention-deficit hyperactivity disorder, combined type",F90.2,ICD10CM,CognitiveImpairments
+35207264,"Attention-deficit hyperactivity disorder, other type",F90.8,ICD10CM,CognitiveImpairments
+45586262,Other hyperkinetic disorders,F90.8,ICD10,CognitiveImpairments
+45533124,"Hyperkinetic disorder, unspecified",F90.9,ICD10,CognitiveImpairments
+35207265,"Attention-deficit hyperactivity disorder, unspecified type",F90.9,ICD10CM,CognitiveImpairments
+45595932,Mild cognitive impairment of uncertain or unknown etiology,G31.84,ICD10CM,CognitiveImpairments
+35207397,Transient global amnesia,G45.4,ICD10CM,CognitiveImpairments
+45566883,Transient global amnesia,G45.4,ICD10,CognitiveImpairments
+1572239,Other symptoms and signs involving cognitive functions and awareness,R41,ICD10CM,CognitiveImpairments
+45544146,Other symptoms and signs involving cognitive functions and awareness,R41,ICD10,CognitiveImpairments
+45558469,"Disorientation, unspecified",R41.0,ICD10,CognitiveImpairments
+35211346,"Disorientation, unspecified",R41.0,ICD10CM,CognitiveImpairments
+45606812,Anterograde amnesia,R41.1,ICD10,CognitiveImpairments
+35211347,Anterograde amnesia,R41.1,ICD10CM,CognitiveImpairments
+35211348,Retrograde amnesia,R41.2,ICD10CM,CognitiveImpairments
+45553735,Retrograde amnesia,R41.2,ICD10,CognitiveImpairments
+45539342,Other amnesia,R41.3,ICD10,CognitiveImpairments
+35211349,Other amnesia,R41.3,ICD10CM,CognitiveImpairments
+45539343,Neurologic neglect syndrome,R41.4,ICD10CM,CognitiveImpairments
+1572240,Other symptoms and signs involving cognitive functions and awareness,R41.8,ICD10CM,CognitiveImpairments
+45534452,Other and unspecified symptoms and signs involving cognitive functions and awareness,R41.8,ICD10,CognitiveImpairments
+45534453,"Altered mental status, unspecified",R41.82,ICD10CM,CognitiveImpairments
+45582709,Borderline intellectual functioning,R41.83,ICD10CM,CognitiveImpairments
+1572241,Other specified cognitive deficit,R41.84,ICD10CM,CognitiveImpairments
+45582710,Attention and concentration deficit,R41.840,ICD10CM,CognitiveImpairments
+45534454,Cognitive communication deficit,R41.841,ICD10CM,CognitiveImpairments
+45548968,Visuospatial deficit,R41.842,ICD10CM,CognitiveImpairments
+45568131,Psychomotor deficit,R41.843,ICD10CM,CognitiveImpairments
+45539344,Frontal lobe and executive function deficit,R41.844,ICD10CM,CognitiveImpairments
+45553737,Other symptoms and signs involving cognitive functions and awareness,R41.89,ICD10CM,CognitiveImpairments
+45539345,Unspecified symptoms and signs involving cognitive functions and awareness,R41.9,ICD10CM,CognitiveImpairments
+1572218,Abnormalities of gait and mobility,R26,ICD10CM,PhysicalImpairments
+45606801,Abnormalities of gait and mobility,R26,ICD10,PhysicalImpairments
+45534437,Ataxic gait,R26.0,ICD10,PhysicalImpairments
+35211325,Ataxic gait,R26.0,ICD10CM,PhysicalImpairments
+45563296,Paralytic gait,R26.1,ICD10,PhysicalImpairments
+35211326,Paralytic gait,R26.1,ICD10CM,PhysicalImpairments
+45602016,"Difficulty in walking, not elsewhere classified",R26.2,ICD10,PhysicalImpairments
+35211327,"Difficulty in walking, not elsewhere classified",R26.2,ICD10CM,PhysicalImpairments
+1572219,Other abnormalities of gait and mobility,R26.8,ICD10CM,PhysicalImpairments
+45597174,Other and unspecified abnormalities of gait and mobility,R26.8,ICD10,PhysicalImpairments
+45597175,Other abnormalities of gait and mobility,R26.89,ICD10CM,PhysicalImpairments
+45553724,Unspecified abnormalities of gait and mobility,R26.9,ICD10CM,PhysicalImpairments
+45600353,Other problems related to life-management difficulty,Z73.8,ICD10,PhysicalImpairments
+1576171,Other problems related to life management difficulty,Z73.8,ICD10CM,PhysicalImpairments
+45600355,Need for assistance due to reduced mobility,Z74.0,ICD10,PhysicalImpairments
+1576173,Reduced mobility,Z74.0,ICD10CM,PhysicalImpairments
+45547340,Bed confinement status,Z74.01,ICD10CM,PhysicalImpairments
+45552105,Other reduced mobility,Z74.09,ICD10CM,PhysicalImpairments
+45581069,Need for assistance with personal care,Z74.1,ICD10,PhysicalImpairments
+35225284,Need for assistance with personal care,Z74.1,ICD10CM,PhysicalImpairments
+1568260,Specific developmental disorders of scholastic skills,F81,ICD10CM,SchoolDifficulty
+45591156,Specific developmental disorders of scholastic skills,F81,ICD10,SchoolDifficulty
+45542866,Specific reading disorder,F81.0,ICD10,SchoolDifficulty
+35207250,Specific reading disorder,F81.0,ICD10CM,SchoolDifficulty
+45571779,Specific spelling disorder,F81.1,ICD10,SchoolDifficulty
+45542867,Specific disorder of arithmetical skills,F81.2,ICD10,SchoolDifficulty
+35207251,Mathematics disorder,F81.2,ICD10CM,SchoolDifficulty
+45605515,Mixed disorder of scholastic skills,F81.3,ICD10,SchoolDifficulty
+45542868,Other developmental disorders of scholastic skills,F81.8,ICD10,SchoolDifficulty
+45552504,Disorder of written expression,F81.81,ICD10CM,SchoolDifficulty
+35207252,"Developmental disorder of scholastic skills, unspecified",F81.9,ICD10CM,SchoolDifficulty
+45581474,"Developmental disorder of scholastic skills, unspecified",F81.9,ICD10,SchoolDifficulty
+1576131,Problems related to education and literacy,Z55,ICD10CM,SchoolDifficulty
+45552089,Problems related to education and literacy,Z55,ICD10,SchoolDifficulty
+45609952,Illiteracy and low-level literacy,Z55.0,ICD10,SchoolDifficulty
+35225164,Illiteracy and low-level literacy,Z55.0,ICD10CM,SchoolDifficulty
+35225165,Schooling unavailable and unattainable,Z55.1,ICD10CM,SchoolDifficulty
+45547326,Schooling unavailable and unattainable,Z55.1,ICD10,SchoolDifficulty
+45547327,Failed examinations,Z55.2,ICD10,SchoolDifficulty
+35225166,Failed school examinations,Z55.2,ICD10CM,SchoolDifficulty
+35225167,Underachievement in school,Z55.3,ICD10CM,SchoolDifficulty
+45537656,Underachievement in school,Z55.3,ICD10,SchoolDifficulty
+45556848,Educational maladjustment and discord with teachers and classmates,Z55.4,ICD10,SchoolDifficulty
+35225168,Educational maladjustment and discord with teachers and classmates,Z55.4,ICD10CM,SchoolDifficulty
+766508,Less than a high school diploma,Z55.5,ICD10CM,SchoolDifficulty
+35225169,Other problems related to education and literacy,Z55.8,ICD10CM,SchoolDifficulty
+45571369,Other problems related to education and literacy,Z55.8,ICD10,SchoolDifficulty
+45581047,"Problem related to education and literacy, unspecified",Z55.9,ICD10,SchoolDifficulty
+35225170,"Problems related to education and literacy, unspecified",Z55.9,ICD10CM,SchoolDifficulty
+45556919,Fatal familial insomnia,A81.83,ICD10CM,SleepProblems
+1568242,Sleep disorders not due to a substance or known physiological condition,F51,ICD10CM,SleepProblems
+1568243,Insomnia not due to a substance or known physiological condition,F51.0,ICD10CM,SleepProblems
+45600753,Primary insomnia,F51.01,ICD10CM,SleepProblems
+45566847,Adjustment insomnia,F51.02,ICD10CM,SleepProblems
+45538071,Paradoxical insomnia,F51.03,ICD10CM,SleepProblems
+45562054,Psychophysiologic insomnia,F51.04,ICD10CM,SleepProblems
+45562055,Insomnia due to other mental disorder,F51.05,ICD10CM,SleepProblems
+45566848,Other insomnia not due to a substance or known physiological condition,F51.09,ICD10CM,SleepProblems
+1568244,Hypersomnia not due to a substance or known physiological condition,F51.1,ICD10CM,SleepProblems
+45571766,Primary hypersomnia,F51.11,ICD10CM,SleepProblems
+45595911,Insufficient sleep syndrome,F51.12,ICD10CM,SleepProblems
+45566849,Hypersomnia due to other mental disorder,F51.13,ICD10CM,SleepProblems
+45605502,Other hypersomnia not due to a substance or known physiological condition,F51.19,ICD10CM,SleepProblems
+35207196,Sleepwalking [somnambulism],F51.3,ICD10CM,SleepProblems
+35207197,Sleep terrors [night terrors],F51.4,ICD10CM,SleepProblems
+35207199,Other sleep disorders not due to a substance or known physiological condition,F51.8,ICD10CM,SleepProblems
+35207200,"Sleep disorder not due to a substance or known physiological condition, unspecified",F51.9,ICD10CM,SleepProblems
+1568362,Sleep disorders,G47,ICD10CM,SleepProblems
+1568363,Insomnia,G47.0,ICD10CM,SleepProblems
+45571810,"Insomnia, unspecified",G47.00,ICD10CM,SleepProblems
+45571811,Insomnia due to medical condition,G47.01,ICD10CM,SleepProblems
+45581497,Other insomnia,G47.09,ICD10CM,SleepProblems
+1568364,Hypersomnia,G47.1,ICD10CM,SleepProblems
+45605556,"Hypersomnia, unspecified",G47.10,ICD10CM,SleepProblems
+45576590,Idiopathic hypersomnia with long sleep time,G47.11,ICD10CM,SleepProblems
+45562093,Idiopathic hypersomnia without long sleep time,G47.12,ICD10CM,SleepProblems
+45591185,Recurrent hypersomnia,G47.13,ICD10CM,SleepProblems
+45547743,Hypersomnia due to medical condition,G47.14,ICD10CM,SleepProblems
+45566884,Other hypersomnia,G47.19,ICD10CM,SleepProblems
+1568365,Circadian rhythm sleep disorders,G47.2,ICD10CM,SleepProblems
+45538121,"Circadian rhythm sleep disorder, unspecified type",G47.20,ICD10CM,SleepProblems
+45591186,"Circadian rhythm sleep disorder, delayed sleep phase type",G47.21,ICD10CM,SleepProblems
+45566885,"Circadian rhythm sleep disorder, advanced sleep phase type",G47.22,ICD10CM,SleepProblems
+45566886,"Circadian rhythm sleep disorder, irregular sleep wake type",G47.23,ICD10CM,SleepProblems
+45552537,"Circadian rhythm sleep disorder, free running type",G47.24,ICD10CM,SleepProblems
+45552538,"Circadian rhythm sleep disorder, jet lag type",G47.25,ICD10CM,SleepProblems
+45533147,"Circadian rhythm sleep disorder, shift work type",G47.26,ICD10CM,SleepProblems
+45538122,Circadian rhythm sleep disorder in conditions classified elsewhere,G47.27,ICD10CM,SleepProblems
+45557240,Other circadian rhythm sleep disorder,G47.29,ICD10CM,SleepProblems
+45571814,Parasomnia,G47.5,ICD10CM,SleepProblems
+45576593,"Parasomnia, unspecified",G47.50,ICD10CM,SleepProblems
+45586298,REM sleep behavior disorder,G47.52,ICD10CM,SleepProblems
+45566887,Parasomnia in conditions classified elsewhere,G47.54,ICD10CM,SleepProblems
+45533148,Other parasomnia,G47.59,ICD10CM,SleepProblems
+35207409,Other sleep disorders,G47.8,ICD10CM,SleepProblems
+35207410,"Sleep disorder, unspecified",G47.9,ICD10CM,SleepProblems
+1576169,Problems related to sleep,Z72.82,ICD10CM,SleepProblems
+45537668,Sleep deprivation,Z72.820,ICD10CM,SleepProblems
+45556854,Behavioral insomnia of childhood,Z73.81,ICD10CM,SleepProblems
+45537670,"Behavioral insomnia of childhood, sleep-onset association type",Z73.810,ICD10CM,SleepProblems
+45576179,"Behavioral insomnia of childhood, limit setting type",Z73.811,ICD10CM,SleepProblems
+45600354,"Behavioral insomnia of childhood, combined type",Z73.812,ICD10CM,SleepProblems
+45571386,"Behavioral insomnia of childhood, unspecified type",Z73.819,ICD10CM,SleepProblems
+35207198,Nightmare disorder,F51.5,ICD10CM,SleepProblems
