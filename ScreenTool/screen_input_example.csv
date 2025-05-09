@@ -1,0 +1,2 @@
+"token_start","token_end","concept","text"
+17,25,"Respiratory Signs & Symptoms","This is not the real text of the note that this token was drawn from since we should not be exposing any possible PHI but if it were, the highlighted term would be 9 characters long and start at offset 17."
